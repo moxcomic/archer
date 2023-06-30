@@ -3,7 +3,7 @@ Archer is a Tenhou/Mahjongsoul bot affiliated with Project Grail And support for
 
 ### Usage
 
-1. Download the appropriate version file `(such as archer_windows2.0.17_3_. zip)` to your computer
+1. Download the appropriate version file `(such as archer_windows2.0.17_3_.zip)` to your computer
 
 2. UnZip
 
