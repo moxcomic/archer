@@ -3,19 +3,29 @@ Archer is a Tenhou/Mahjongsoul AI affiliated with Project Grail And support for 
 
 ### Usage
 
-1. Download the appropriate version file `(such as archer_windows2.0.17_3_.zip)` to your computer
+1. 从 https://github.com/moxcomic/archer/releases 下载文件
 
-2. UnZip
+1. 解压
 
-3. Run `archer.exe`
+1. 启动 archer
+
+1. 等待WebUI网页出现
+
+1. 点击最右边启动按钮即可(请不要修改任何设置)
+
+
+----
+
+1. Download the file from https://github.com/moxcomic/archer/releases
+
+2. Unzip the file
+
+3. Start archer
+
+4. Wait for the WebUI page to appear
+
+5. Click the start button on the far right (do not modify any settings).
 
 ### WebUI
 
 After startup, it will automatically open the WebUI using the default browser. If not, it can be manually opened `http://localhost:30010/webui/`
-
-### Required
-
-- You must fill in your email address, which can be any address where you can receive emails.
-
-- You must choose a gaming platform `(tenhou or mahjongsoul)`.
-- You must select an AI engine.
