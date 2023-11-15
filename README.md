@@ -1,6 +1,9 @@
 # Archer
 Archer is a Tenhou/Mahjongsoul AI affiliated with Project Grail And support for custom programming with `Golang` or `Javascript`.
 
+## Milestone:
+2023-11-15: Through our continuous efforts, we have successfully reduced the probability of account bans to below 1%, achieving a record of only 7 bans in 9 months.
+
 ### Usage
 
 1. 从 https://github.com/moxcomic/archer/releases 下载文件
