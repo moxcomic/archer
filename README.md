@@ -1,5 +1,5 @@
 # Archer
-Archer is a top-notch Mahjong AI development framework that supports development in `Golang` and `JavaScript`. Through scripting, it offers limitless possibilities. The design of this project is as simple as possible and does not require setting too many options. Everything can be achieved through scripting. If you know how to develop scripts, it will fulfill everything you need, `anything`.
+Archer is a top-notch Mahjong AI development framework that supports development in `Golang` and `JavaScript`. Through scripting, it offers limitless possibilities. The design of this project is as simple as possible and does not require setting too many options. Everything can be achieved through scripting. If you know how to develop scripts, it will fulfill everything you need, `Your new superpower`.
 
 ## Milestone:
 
