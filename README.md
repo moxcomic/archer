@@ -3,6 +3,8 @@ Archer is a top-notch Mahjong AI development framework that supports development
 
 ## Milestone:
 
+2024-01-07: In Tenhou, breakthrough from 8-dan to 9-dan.
+
 2023-12-25: As Christmas approaches, we have completed our final test for 2023. This test still achieved the Tenhou 8-dan rank, but the performance was better than in 2022. In 2024, we will strive for even higher ranks.
 
 2023-11-15: Through our continuous efforts, we have successfully reduced the probability of account bans to below 1%, achieving a record of only 7 bans in 9 months.
