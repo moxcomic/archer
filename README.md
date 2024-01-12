@@ -1,6 +1,10 @@
 # Archer
 Archer is a top-notch Mahjong AI development framework that supports development in `Golang` and `JavaScript`. Through scripting, it offers limitless possibilities. The design of this project is as simple as possible and does not require setting too many options. Everything can be achieved through scripting. If you know how to develop scripts, it will fulfill everything you need, `Your new superpower`.
 
+## Wiki
+
+For more development documentation, please visit [https://github.com/moxcomic/archer/wiki](https://github.com/moxcomic/archer/wiki) or leave an issue there.
+
 ## Milestone:
 
 2023-12-27: In Tenhou, breakthrough from 8-dan to 9-dan.
