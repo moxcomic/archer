@@ -5,6 +5,14 @@ Archer is a top-notch Mahjong AI development framework that supports development
 
 For more development documentation, please visit [https://github.com/moxcomic/archer/wiki](https://github.com/moxcomic/archer/wiki) or leave an issue there.
 
+## Preview
+
+Archer allows you to focus more on the game page. It can directly display recommended information at a higher level in the game without needing to pay attention to any other information. Moreover, its installation and use do not require any complicated procedures. You only need to click on the "🚀" icon to start, without any cumbersome additional operations. This ease of use is unmatched by any other software currently available in the market.
+
+Archer's image display is independent of the game and has no connection with the game itself. They are separate, belonging to software independently developed by Archer. You can think of it as a standalone application. It is designed to be fixed on the topmost layer of the screen. You can use the shortcut key Ctrl + I to configure whether your mouse can click through the software to interact with the game page.
+
+![Preview](./preview.png)
+
 ## Milestone:
 
 2023-12-27: In Tenhou, breakthrough from 8-dan to 9-dan.
