@@ -1,5 +1,5 @@
 # Archer
-Archer is a top-notch Mahjong AI development framework that supports development in `Golang` and `JavaScript`. Through scripting, it offers limitless possibilities. The design of this project is as simple as possible and does not require setting too many options. Everything can be achieved through scripting. If you know how to develop scripts, it will fulfill everything you need, `Your new superpower`.
+Archer is the most advanced Mahjong AI software available in the market. This software natively supports different platforms like Windows, macOS (Intel), macOS (Apple Silicon), and Linux, without requiring the installation of complex environments like Docker, Rust, or Python. It also doesn't require users to set up anything. On Windows, you just need to double-click to start and then click the "🚀" icon. On other systems, you only need to `cd` into the directory and use `./archer` to start. There is no other software in the market that matches its ease of use and strength. Additionally, this software supports operation in a non-UI environment, such as on a Linux server without a GUI.
 
 ## Wiki
 
