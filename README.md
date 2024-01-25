@@ -18,6 +18,8 @@ Archer's image display is independent of the game and has no connection with the
 
 ## Milestone:
 
+2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
+
 2024-??-??: Achieving 10-dan in Tenhou, we will announce the results after some time. Currently, we need to organize some data and cannot disclose it publicly yet.
 
 2023-12-25: As Christmas approaches, we have completed our final test for 2023. This test still achieved the Tenhou 8-dan rank, but the performance was better than in 2022. In 2024, we will strive for even higher ranks.
