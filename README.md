@@ -16,6 +16,8 @@ Archer's image display is independent of the game and has no connection with the
 
 ![Preview](./preview.png)
 
+[Video](https://moxcomic.github.io/archer/)
+
 ## Milestone:
 
 2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
