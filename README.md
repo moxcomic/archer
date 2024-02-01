@@ -18,6 +18,14 @@ Archer's image display is independent of the game and has no connection with the
 
 [Video](https://moxcomic.github.io/archer/)
 
+## Assassin Extension
+
+![Assassin](./assassin-01.png)
+
+![Assassin](./assassin-02.png)
+
+The Assassin extension displays in real time the remaining count of Tiles in the current game, as well as the Discard information of the other players, excluding oneself. The gray color indicates Tsumogiri, meaning the Tile that was just dealt is immediately discarded. This extension will not obstruct your table information; by clicking anywhere on the extension, it will minimize to a floating icon in the top left corner. When you need it, simply click this floating icon to restore the display.
+
 ## Milestone:
 
 2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
