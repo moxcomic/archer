@@ -34,6 +34,8 @@ func Inst() *GameState {
 	return inst
 }
 
+func (self *GameState) IsOnChiPon() bool                     { return false }
+func (self *GameState) IsOnBabei() bool                      { return false }
 func (self *GameState) IsRoundWind(tile string) bool         { return false }
 func (self *GameState) IsSelfWind(tile string) bool          { return false }
 func (self *GameState) IsCanWin() bool                       { return false }
