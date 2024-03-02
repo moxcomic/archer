@@ -25,3 +25,5 @@ func (self *Utils) Review(distance float64, retryCount, reviewRetryCount int, mo
 func (self *Utils) DispatchBot(distance float64, retryCount int, lobby, speed string, model ...string) error {
 	return nil
 }
+func (self *Utils) MouseClick(count int)     {}
+func (self *Utils) Screenshot(toFile string) {}
