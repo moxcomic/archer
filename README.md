@@ -1,8 +1,26 @@
-# Archer
+## FAQ
 
-Archer是市面上最顶级的麻将AI软件，该软件原生支持Windows、macOS (Intel)、macOS (Apple Clip)、Linux等不同平台，无需安装Docker、Rust、Python等让用户安装繁琐的环境，也不需要用户安装信任任何证书，也不需要用户设置任何东西，只需要在Windows系统上只需要双击启动后点击“🚀”图标即可，在其他系统上也仅需要`cd`到目录下使用`./archer`启动即可，可以说在市面上没有任何一款软件的易用性和强度比得上本软件，并且也是唯一一款不使用mortal的AI软件，经过了长达2年的改进训练已经让kanachan超越了绝大多数市面上能见到的任何私人AI，本软件支持在无UI环境(例如无GUI的Linux服务器上)使用。
+Q: Why not open source the code?
 
-Archer is the top-tier Mahjong AI software available in the market. This software natively supports different platforms like Windows, macOS (Intel), macOS (Apple Clip), and Linux. It does not require the installation of Docker, Rust, Python, or any other complex environment setup. Users don't need to install or trust any certificates, nor set up anything. On Windows, you just need to double-click to start the program and then click the "🚀" icon. On other systems, you simply need to `cd` into the directory and start it with `./archer`. In terms of ease of use and strength, no other software on the market can match this one. Moreover, it is the only AI software that doesn't use 'mortal'. After 2 years of continuous improvement and training, 'kanachan' has surpassed most of the private AIs available in the market. This software also supports operation in a no UI environment, such as on a Linux server without GUI.
+A: Open sourcing is a grace, not open sourcing is a duty. I do not believe that open sourcing this type of software is a good act, whether it is out of interest or other purposes. Your open source code will be targeted by speculators for secondary sales to gain profits, and their sales targets are unaware of the original author. (Especially on Chinese platforms like Taobao, Xianyu, etc.)
+
+
+
+Q: Why isn't Archer freely available?
+
+A: To combat the speculators mentioned in the previous question who engage in secondary sales for profit, we have deployed the core code on remote servers. Archer operates on as many as seven remote servers, which represents a significant expense. Additionally, we currently have more than 70 AI engines and are continuously training them without almost any pause, leading to substantial electricity bills. Furthermore, the cost of manual maintenance is also significant, which is why we cannot make it freely available.
+
+
+
+Q: Is the Archer service stable?
+
+A: Archer operates on a network of seven remote servers and is developed using the relatively stable `Golang` language. It has been running smoothly for five years now.
+
+
+
+Q: Does Archer provide an automatic game mode?
+
+A: To protect your account security, we only offer callable `golang` and `javascript` API interfaces. You can implement an automatic game mode by calling these interfaces.
 
 ## Wiki
 
