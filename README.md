@@ -46,6 +46,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-06: We conducted 170 matches on Tenhou with our latest engine against the Mortal 4.0 strongest model, achieving an average rank of 2.3823, sounds pretty good.
+
 2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
 
 2024-??-??: Achieving 10-dan in Tenhou, we will announce the results after some time. Currently, we need to organize some data and cannot disclose it publicly yet.
