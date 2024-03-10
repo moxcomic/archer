@@ -46,6 +46,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-10: Our training equipment has been continuously operating 24 hours a day for 4 months, from November 6, 2023, to the present date, March 10, 2024. Except for unavoidable circumstances like power outages, it has been in continuous training. We anticipate it will need to remain in service for at least another 2 years, with electricity costs being a significant expense.
+
 2024-03-06: We conducted 170 matches on Tenhou with our latest engine against the Mortal 4.0 strongest model, achieving an average rank of 2.3823, sounds pretty good.
 
 2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
