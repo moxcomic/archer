@@ -21,6 +21,11 @@ Here is just an example and not the complete code.
 Since acquiring messages from the Network Adapter requires administrator privileges, an elevation of privilege scheme is also needed, which is not disclosed for the time being.
 */
 
+/*
+Its principle is similar to `WireShark` and `Fiddler` in terms of capturing packets and reading data, then using scripts to throw out the message stream.
+However, here we have modified Google's open-source library to some extent and integrated it into the `Golang` source code.
+*/
+
 type NAI struct{}
 
 var (
