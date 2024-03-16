@@ -3,9 +3,11 @@ package nai
 import (
 	"fmt"
 	"log"
+	"strings"
 	"sync"
 
 	"github.com/google/gopacket"
+	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
 )
 
@@ -54,10 +56,37 @@ func (self *NAI) Run(call func(data []byte)) {
 	}
 	defer handle.Close()
 
+	// Set the filter to capture only TCP packets
+	if err := handle.SetBPFFilter("tcp"); err != nil {
+		log.Fatal(err)
+	}
+
 	// Use the handle as a packet source to process all packets
 	packetSource := gopacket.NewPacketSource(handle, handle.LinkType())
 	for packet := range packetSource.Packets() {
-		call(packet.Data())
 		// Do what you want to do, such as intercepting any message content from the network adapter, WebSocket data, etc., thereby eliminating the need to use MITM (Man-In-The-Middle) technology.
+		self.processPacket(packet, call)
 	}
+}
+
+func (self *NAI) processPacket(packet gopacket.Packet, call func(data []byte)) {
+	// Attempt to get the TCP layer
+	tcpLayer := packet.Layer(layers.LayerTypeTCP)
+	if tcpLayer != nil {
+		tcp, _ := tcpLayer.(*layers.TCP)
+
+		// Check if the packet might be an HTTP request (simple check, may produce false positives)
+		payload := string(tcp.Payload)
+		if strings.Contains(payload, "HTTP") && strings.Contains(payload, "Upgrade: websocket") {
+			fmt.Println("Potential WebSocket handshake request detected:")
+			fmt.Printf("Source Port: %d, Destination Port: %d\n", tcp.SrcPort, tcp.DstPort)
+			fmt.Println("Payload (partial):", payload[:min(len(payload), 200)]) // Print part of the Payload to avoid it being too long
+
+			self.handlerWebSocket(tcp, call)
+		}
+	}
+}
+
+func (self *NAI) handlerWebSocket(tcp *layers.TCP, call func([]byte)) {
+	// Confidential.
 }
