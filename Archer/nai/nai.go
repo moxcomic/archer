@@ -15,6 +15,8 @@ import (
 This is an example of capturing network adapter messages using Google's open-source packet capture library `github.com/google/gopacket`.
 Since it captures network adapter messages, it does not proxy any messages, thus not affecting the speed of message sending and receiving for any software. Accessing inaccessible websites only requires the normal activation of proxy software without the need for the proxy's TUN mode.
 Here is just an example and not the complete code.
+
+Since acquiring messages from the Network Adapter requires administrator privileges, an elevation of privilege scheme is also needed, which is not disclosed for the time being.
 */
 
 type NAI struct{}
@@ -32,7 +34,7 @@ func Inst() *NAI {
 	return inst
 }
 
-func (self *NAI) Run() {
+func (self *NAI) Run(call func(data []byte)) {
 	// Find all network devices
 	devices, err := pcap.FindAllDevs()
 	if err != nil {
@@ -55,7 +57,7 @@ func (self *NAI) Run() {
 	// Use the handle as a packet source to process all packets
 	packetSource := gopacket.NewPacketSource(handle, handle.LinkType())
 	for packet := range packetSource.Packets() {
-		fmt.Println(packet)
+		call(packet.Data())
 		// Do what you want to do, such as intercepting any message content from the network adapter, WebSocket data, etc., thereby eliminating the need to use MITM (Man-In-The-Middle) technology.
 	}
 }
