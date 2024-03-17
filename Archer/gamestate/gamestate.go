@@ -46,11 +46,11 @@ func (self *GameState) Ju() int                              { return 0 }
 func (self *GameState) Oya() int                             { return 0 }
 func (self *GameState) Score() []int32                       { return make([]int32, 4) }
 func (self *GameState) DiscardTile() [][]string              { return make([][]string, 0) }
-func (self *GameState) Riichi() [][]bool                     { return make([][]bool, 0) }
+func (self *GameState) Riichi() []bool                       { return make([]bool, 0) }
 func (self *GameState) IsCan(int) bool                       { return false }
 func (self *GameState) IsCanOperations() bool                { return false }
 func (self *GameState) IsOperation(uint32) bool              { return false }
-func (self *GameState) SetUseMouse(bool)                     {}
+func (self *GameState) SetUserUseMouse(bool)                 {}
 func (self *GameState) HandTile() []string                   { return make([]string, 14) }
 func (self *GameState) OperationCombination(uint32) []string { return make([]string, 0) }
 func (self *GameState) LeftTileCount() int                   { return 0 }
