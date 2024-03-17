@@ -46,6 +46,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-17: We have confirmed that over the same dataset of 1000 games, we have surpassed `LuckyJ`. Moreover, we spent several months competing against other AIs available on the market in thousands of matches, securing a leading advantage. However, since our emails to Tenhou have gone unanswered, we won't disclose any further related information until our testing is complete. Therefore, the information we release is delayed; this message comes from the distant past...
+
 2024-03-15: After years of accumulation, we made significant progress recently.
 
 2024-03-10: Our training equipment has been continuously operating 24 hours a day for 4 months, from November 6, 2023, to the present date, March 10, 2024. Except for unavoidable circumstances like power outages, it has been in continuous training. We anticipate it will need to remain in service for at least another 2 years, with electricity costs being a significant expense.
