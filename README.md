@@ -46,7 +46,7 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
-2024-03-17: We have confirmed that over the same set of 1,000 games, we have surpassed `LuckyJ`. Moreover, we spent months competing against available AI on the market, such as NAGA, in thousands of matches and have gained a leading edge. However, since our emails to Tenhou have gone unanswered, we will not publicize any other related information until we complete our testing. Therefore, the updates we release are delayed; this message is like one from the ancient past... Since training transformers is quite time-consuming, we anticipate needing to iterate further over the next two years.
+2024-03-17: We have confirmed that over the same dataset of 1,000 games, we have surpassed `LuckyJ`. Moreover, we spent several months competing against other AI on the market (such as NAGA) in thousands of matches and have gained a leading advantage. However, since our emails to Tenhou have gone unanswered for four months, we will not disclose any other related information until our testing is complete. Therefore, to facilitate testing, the information we release is delayed; this is a message from the distant past... Given the considerable time required to train transformers, we anticipate needing to continue iterations over the next two years.
 
 2024-03-15: After years of accumulation, we made significant progress recently.
 
