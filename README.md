@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-20: To further enhance the strength of our engine, we have developed a real-time training method. After the update on March 20, 2024, we will allow AI-completed real-time matches to be incorporated into training to more quickly improve the engine's self-strength. Unlike any previous training methods, the goal of this training is to allow the engine to gain more realistic match information in real-time games to improve its own judgment. Due to the large demand for data and the lower efficiency of real-time match training, we may need more time to conduct this training.
+
 2024-03-17: We have confirmed that over the same dataset of 1,000 games, we have surpassed `LuckyJ`. Moreover, we spent several months competing against other AI on the market (such as NAGA) in thousands of matches and have gained a leading advantage. However, since our emails to Tenhou have gone unanswered for four months, we will not disclose any other related information until our testing is complete. Therefore, to facilitate testing, the information we release is delayed; this is a message from the distant past... Given the considerable time required to train transformers, we anticipate needing to continue iterations over the next two years.
 
 2024-03-15: After years of accumulation, we made significant progress recently.
