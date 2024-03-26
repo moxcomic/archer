@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-25: `Archer` will be the first player to make a run for Tenhou's 10th dan, following `Naga`, `Suphx`, and `LuckyJ`, true to its name, charging forward bravely.![rank_9_dan](./rank_9_dan.jpg)
+
 2024-03-25: A major event is about to happen...
 
 2024-03-20: To further enhance the strength of our engine, we have developed a real-time training method. After the update on March 20, 2024, we will allow AI-completed real-time matches to be incorporated into training to more quickly improve the engine's self-strength. Unlike any previous training methods, the goal of this training is to allow the engine to gain more realistic match information in real-time games to improve its own judgment. Due to the large demand for data and the lower efficiency of real-time match training, we may need more time to conduct this training.
