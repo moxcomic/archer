@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-03-29: We've taken another step closer to our established goal; we are about to achieve our target.
+
 2024-03-28: "Shurima! Your emperor has returned!"
 
 2024-03-26: `Archer` will be the first player to make a run for Tenhou's 10-dan, following `Naga`, `Suphx`, and `LuckyJ`, true to its name, charging forward bravely.![rank_9_dan](./rank_9_dan.jpg)
