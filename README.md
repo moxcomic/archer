@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-04-02: People commonly believe that higher Ratings and Matches in Mortal indicate stronger gameplay skills, but we disagree. We think that an individual's gameplay level has no correlation with these scores. Thus, we spent a year collecting matches with Ratings below 90 and Matches below 85 for training. We successfully lowered our engine's values to below 90 in Rating and 85 in Matches, and still achieved the rank of Tenhou 9 dan. This once again proves our theory that Ratings and Matches are irrelevant metrics. Players should not overly concern themselves with these numbers; they are merely a joke.
+
 2024-03-29: We've taken another step closer to our established goal; we are about to achieve our target.
 
 2024-03-28: "Shurima! Your emperor has returned!"
