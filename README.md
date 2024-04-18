@@ -86,6 +86,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Contact Us
 
+[X: https://x.com/yuukiasunahk](https://x.com/yuukiasunahk)
+
 <figure class="two">
     <img src="./telegram.jpg" width=170>
     <img src="./whatsapp.jpg" width=170>
