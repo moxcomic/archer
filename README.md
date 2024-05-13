@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-05-14: Some people have mentioned that we've been silent since April 18th. In fact, we've been testing a new direction and also took a break for the May Day holiday. We can't disclose exactly what we've been working on yet, but you should see the results soon.
+
 2024-04-11: We possess not just one Tenhou 9-dan account because we laid out extensive preparations a year ago to achieve our ultimate goal. There's an old Chinese saying, "The strength of an army lies not in its numbers but in its unity, and a general's value lies not in his bravery but in his strategy." So, we made a thoroughly comprehensive plan a year in advance, and we will ultimately realize our goal. Always remember, a high rating and matches do not necessarily mean it's an AI, while an entity with lower ratings and matches, appearing more like a normal person, might indeed be an AI.
 
 2024-04-09: We adjusted our testers to a level not far from that of normal players, and even so, we still made great progress in rank. We believe players should actively learn and continually improve their skills, rather than envying others' ranks or match data. Only when your own strength is sufficiently strong can you face all challenges without fear.
