@@ -52,6 +52,8 @@ The Assassin extension displays in real time the remaining count of Tiles in the
 
 ## Milestone:
 
+2024-05-15: During our vacation from April 15 to May 15, we noticed many "enthusiastic" players reporting AI to the Mahjong Soul officials. According to our backend data statistics and user feedback, only one test user was affected for playing more than 20 games in a single day, while the rest of the test users were safe and sound. We are very confident that our solution is particularly effective and safe. As for why we took a month off, we believe that people should focus more on enjoying real life rather than being addicted to the internet. Therefore, during this holiday, we explored places like Paris, London, Switzerland, and Singapore. However, although we were on vacation, the AI did not stop progressing. It continued to move forward steadily and continuously...
+
 2024-05-14: Some people have mentioned that we've been silent since April 18th. In fact, we've been testing a new direction and also took a break for the May Day holiday. We can't disclose exactly what we've been working on yet, but you should see the results soon.
 
 2024-04-11: We possess not just one Tenhou 9-dan account because we laid out extensive preparations a year ago to achieve our ultimate goal. There's an old Chinese saying, "The strength of an army lies not in its numbers but in its unity, and a general's value lies not in his bravery but in his strategy." So, we made a thoroughly comprehensive plan a year in advance, and we will ultimately realize our goal. Always remember, a high rating and matches do not necessarily mean it's an AI, while an entity with lower ratings and matches, appearing more like a normal person, might indeed be an AI.
