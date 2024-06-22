@@ -2,4 +2,4 @@
 
 ## 第一课 | Lesson One
 
-[简体中文](./LESSON_ONE/LESSON_ONE_CN.md) | [English](./LESSON_ONE/LESSON_ONE_EN.md)
+[简体中文](./lesson_one/LESSON_ONE_CN.md) | [English](./lesson_one/LESSON_ONE_EN.md)
