@@ -1,4 +1,4 @@
-## `Archer` Script Framework
+## Lesson 1: `Archer` Script Framework
 
 `Archer` defines a wide range of interfaces for players to customize their game logic. Users can write their own scripts using the `Golang` language.
 
