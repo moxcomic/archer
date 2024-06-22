@@ -19,6 +19,16 @@ func onLogin() {
     // We use the game Mahjong Soul as an example
     // After logging in to Mahjong Soul, the events that occur include [pop-up announcements], [pop-up sign-in], and [pop-up monthly card collection]
     // Here we will implement the logic to close the [announcement window], close the [sign-in window], and close the [monthly card collection window]
+  
+  	// Wait until fully entering the game lobby
+    for range time.Tick(time.Second) { // Execute the logic inside the loop once per second
+        if !lobbymgr.Inst().Enable() {  // Not yet entered the lobby
+            fmt.Println("Waiting to Lobby...")
+            continue
+        }
+
+        break // Entered the lobby, exit the loop
+    }
 
     // The order in which these three windows pop up in the game is not fixed; the [announcement] might pop up first or the [sign-in] might pop up first
     // Here we do not consider this situation, only explaining it; you will need to optimize it yourself
