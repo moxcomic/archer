@@ -20,7 +20,7 @@ func onLogin() {
     // After logging in to Mahjong Soul, the events that occur include [pop-up announcements], [pop-up sign-in], and [pop-up monthly card collection]
     // Here we will implement the logic to close the [announcement window], close the [sign-in window], and close the [monthly card collection window]
   
-  	// Wait until fully entering the game lobby
+    // Wait until fully entering the game lobby
     for range time.Tick(time.Second) { // Execute the logic inside the loop once per second
         if !lobbymgr.Inst().Enable() {  // Not yet entered the lobby
             fmt.Println("Waiting to Lobby...")
