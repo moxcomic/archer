@@ -28,6 +28,10 @@ Q: What language do you recommend for writing scripts?
 
 A: We currently support three development languages: `Golang`, `JavaScript`, and `Python`. However, we recommend using `Golang` for writing scripts because this project is developed in `Golang`, which results in higher compatibility. If you use the other two languages, you might encounter some issues.
 
+## Basic Tutorial for `Archer` Script Framework
+
+[Navigation](./lesson/Navigation.md)
+
 ## Wiki
 
 For more development documentation, please visit [https://github.com/moxcomic/archer/wiki](https://github.com/moxcomic/archer/wiki) or leave an issue there.
