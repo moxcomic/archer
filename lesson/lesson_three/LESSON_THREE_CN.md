@@ -64,7 +64,7 @@ z: 字
 
 由上方信息我们可以知道，如果你想要出牌就可以调用`Discard(tile string, tsumogiri bool)`接口方法，其中`tile`为要丢弃的牌(`tile按照上方牌代码`), 这里我们以一个最小化的示例进行演示:
 
-```
+```go
 package main
 
 import (
