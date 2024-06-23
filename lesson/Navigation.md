@@ -10,4 +10,4 @@
 
 第三课: 牌桌操作 - 出牌 | Lesson Three: Table Operations - Discard
 
-[简体中文](./lesson_three/LESSON_Three_CN.md) | [English](./lesson_two/LESSON_Three_EN.md)
+[简体中文](./lesson_three/LESSON_THREE_CN.md) | [English](./lesson_two/LESSON_THREE_EN.md)
