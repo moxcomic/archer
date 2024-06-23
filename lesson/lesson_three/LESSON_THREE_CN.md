@@ -95,7 +95,7 @@ const (
 
 func onExecute(result *lq.NotifyAIResult, risk []float64, r, m, f, t float64) {
 	if result.GetResult()[0].GetType() == E_PlayOperation_Discard {
-		actions.NewMajsoulActions().`Discard(result.GetResult()[0].GetTile(), tsumogiri bool)`
+		actions.NewMajsoulActions().Discard(result.GetResult()[0].GetTile(), tsumogiri bool)
 	}
 }
 ```
