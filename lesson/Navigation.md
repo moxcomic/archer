@@ -11,3 +11,6 @@
 第三课: 牌桌操作 - 出牌 | Lesson Three: Table Operations - Discard
 
 [简体中文](./lesson_three/LESSON_THREE_CN.md) | [English](./lesson_three/LESSON_THREE_EN.md)
+
+第四课: 优化出牌操作 | Lesson Four: Optimizing Discard Details
+[简体中文](./lesson_four/LESSON_FOUR_CN.md) | [English](./lesson_four/LESSON_FOUR_EN.md)
