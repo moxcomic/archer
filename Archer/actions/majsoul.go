@@ -21,7 +21,7 @@ func (self *MajsoulActions) Join(roomID int, roomType int)       {}
 func (self *MajsoulActions) ReJoin()                             {}
 func (self *MajsoulActions) CancelJoin()                         {}
 func (self *MajsoulActions) Confirm()                            {}
-func (self *MajsoulActions) BackToHome()                         {}
+func (self *MajsoulActions) EnterLobby()                         {}
 func (self *MajsoulActions) Huansanzhang()                       {}
 func (self *MajsoulActions) Babei()                              {}
 func (self *MajsoulActions) Discard(tile string, tsumogiri bool) {}
