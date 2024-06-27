@@ -15,3 +15,7 @@
 第四课: 优化出牌操作 | Lesson Four: Optimizing Discard Details
 
 [简体中文](./lesson_four/LESSON_FOUR_CN.md) | [English](./lesson_four/LESSON_FOUR_EN.md)
+
+第五课: 吃 | Lesson Five: Chii (Eat)
+
+[简体中文](./lesson_five/LESSON_FIVE_CN.md) | [English](./lesson_five/LESSON_FIVE_EN.md)
