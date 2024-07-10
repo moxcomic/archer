@@ -19,3 +19,7 @@
 第五课: 吃 | Lesson Five: Chii (Eat)
 
 [简体中文](./lesson_five/LESSON_FIVE_CN.md) | [English](./lesson_five/LESSON_FIVE_EN.md)
+
+第六课: 碰 | Lesson Six: Pon
+
+[简体中文](./lesson_six/LESSON_SIX_CN.md) | [English](./lesson_six/LESSON_SIX_EN.md)
