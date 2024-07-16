@@ -37,6 +37,8 @@ In the bottom right corner of the plugin, there are **"two important pieces of i
 
 **Currently, plugins can replace game artwork as demonstrated below**:
 
+![Plugin JieTouBW](./plugin_jietoubw.png)
+
 ![Plugin Seele](./plugin_seele.png)
 
 **And modify game behavior as demonstrated below**:

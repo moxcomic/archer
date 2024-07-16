@@ -41,6 +41,8 @@ To view the English README, please click [here](./README_EN.md).
 
 **目前插件可以做到替换游戏立绘例如下图演示**
 
+![Plugin JieTouBW](./plugin_jietoubw.png)
+
 ![Plugin Seele](./plugin_seele.png)
 
 **以及修改游戏行为例如下图演示**
