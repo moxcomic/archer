@@ -1,100 +1,68 @@
-## FAQ
+## Archer
 
-Q: Why not open source the code?
+Archer是一款基于Mahjong Soul、Tenhou的开发框架，通过该框架可以实现与游戏进行通信、自动化操作游戏、替换游戏立绘资源等行为。
 
-A: Open sourcing is a grace, not open sourcing is a duty. I do not believe that open sourcing this type of software is a good act, whether it is out of interest or other purposes. Your open source code will be targeted by speculators for secondary sales to gain profits, and their sales targets are unaware of the original author. (Especially on Chinese platforms like Taobao, Xianyu, etc.)
+To view the English README, please click [here](./README_EN.md).
 
+[Stable： ![VersionLatest](https://img.shields.io/github/release/moxcomic/archer.svg)![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/latest/total.svg)](https://github.com/moxcomic/archer/releases/latest)
 
+[Plugin：![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
-Q: Why isn't Archer freely available?
+**警告：** 在您使用 Archer 时 **「 可能会导致账号被封禁」** ，，因此产生的一切后果，Archer 不对此承担任何责任！
+**如果你比较在意您的账号 ** 请 **「尽量使用小号」 ** 使用本软件!
 
-A: To combat the speculators mentioned in the previous question who engage in secondary sales for profit, we have deployed the core code on remote servers. Archer operates on as many as seven remote servers, which represents a significant expense. Additionally, we currently have more than 70 AI engines and are continuously training them without almost any pause, leading to substantial electricity bills. Furthermore, the cost of manual maintenance is also significant, which is why we cannot make it freely available.
+## AI段位
 
+**Archer **在**目前 **达到的最高段位为**「天凤九段」 **，**雀魂 **段位由于部分因素**「暂时无法公开」 **相关信息。
 
+![rank_9_dan](./rank_9_dan.jpg)
 
-Q: Is the Archer service stable?
+## 安装
 
-A: Archer operates on a network of seven remote servers and is developed using the relatively stable `Golang` language. It has been running smoothly for five years now.
+1. 访问 [releases 页面](https://github.com/moxcomic/archer/releases/latest) 下载适用于您计算机系统的版本
+2. 解压压缩文件
+3. 运行应用程序，软件会自动启动浏览器(如果没有启动可以手动访问 [http://localhost:30010/webui](http://localhost:30010/webui) )
 
+## 自动化操作
 
+- [Wiki](https://github.com/moxcomic/archer/wiki)
+- [教程](https://github.com/moxcomic/archer/blob/main/lesson/Navigation.md)
 
-Q: Does Archer provide an automatic game mode?
+## 插件模组
+**Archer **可以**「加载」 **用户自定义的**「插件模组」 **，在打开软件的**「WebUI」 **页面后可以看到**「插件设置」 **页面即可看到加载的所有插件
 
-A: To protect your account security, we only offer callable `golang` and `javascript` API interfaces. You can implement an automatic game mode by calling these interfaces.
+![Plugin Setting](./plugin_setting.png)
 
+插件的右下角有**「两个重要信息」 **
+**「绿色盾牌」 **代表该插件为**「安全插件」 **
+**「红色感叹号」 **代表该插件**「存在风险」 **
+**注意: ** 这里的风险**「仅代表」 **该插件**「可能存在风险」 **并不代表其一定会导致账号被封禁。
 
+**目前插件可以做到替换游戏立绘例如下图演示 **
 
-Q: What language do you recommend for writing scripts?
+![Plugin Seele](./plugin_seele.png)
 
-A: We currently support three development languages: `Golang`, `JavaScript`, and `Python`. However, we recommend using `Golang` for writing scripts because this project is developed in `Golang`, which results in higher compatibility. If you use the other two languages, you might encounter some issues.
+**以及修改游戏行为例如下图演示 **
 
-## Basic Tutorial for `Archer` Script Framework
+![Plugin EndingEdit](./plugin_ending_edit.png)
 
-[Navigation](./lesson/Navigation.md)
+**玩家们可以充分的发挥自己的想象力创建更多有趣的插件 **
 
-## Wiki
+**Archer **官方维护的插件列表可以在 [这里查看](https://github.com/moxcomic/archer/releases/tag/plugin)
 
-For more development documentation, please visit [https://github.com/moxcomic/archer/wiki](https://github.com/moxcomic/archer/wiki) or leave an issue there.
+**如果对插件有任何疑问、改进方案请留言咨询或者添加下方我们的联系方式 **
 
-## Preview
+## 制作插件模组
 
-Archer allows you to focus more on the game page. It can directly display recommended information at a higher level in the game without needing to pay attention to any other information. Moreover, its installation and use do not require any complicated procedures. You only need to click on the "🚀" icon to start, without any cumbersome additional operations. This ease of use is unmatched by any other software currently available in the market.
+**Archer **内部提供了一个**「简单」 **的**「插件模组制作工具」 **，玩家们可以通过其**「快速」 **的进行制作**「立绘替换」 **类插件模组的制作，如下图所示
 
-Archer's image display is independent of the game and has no connection with the game itself. They are separate, belonging to software independently developed by Archer. You can think of it as a standalone application. It is designed to be fixed on the topmost layer of the screen. You can use the shortcut key Ctrl + I to configure whether your mouse can click through the software to interact with the game page.
+![Plugin Make](./plugin_make.png)
 
-![Preview](./preview.png)
+## 参与讨论
 
-[Video](https://moxcomic.github.io/archer/)
+X (Twitter)： [https://x.com/yuukiasunahk](https://x.com/yuukiasunahk)
 
-## Assassin Extension
-
-![Assassin](./assassin-01.png)
-
-![Assassin](./assassin-02.png)
-
-The Assassin extension displays in real time the remaining count of Tiles in the current game, as well as the Discard information of the other players, excluding oneself. The gray color indicates Tsumogiri, meaning the Tile that was just dealt is immediately discarded. This extension will not obstruct your table information; by clicking anywhere on the extension, it will minimize to a floating icon in the top left corner. When you need it, simply click this floating icon to restore the display.
-
-## Milestone:
-
-2024-05-15: During our vacation from April 15 to May 15, we noticed many "enthusiastic" players reporting AI to the Mahjong Soul officials. According to our backend data statistics and user feedback, only one test user was affected for playing more than 20 games in a single day, while the rest of the test users were safe and sound. We are very confident that our solution is particularly effective and safe. As for why we took a month off, we believe that people should focus more on enjoying real life rather than being addicted to the internet. Therefore, during this holiday, we explored places like Paris, London, Switzerland, and Singapore. However, although we were on vacation, the AI did not stop progressing. It continued to move forward steadily and continuously...
-
-2024-05-14: Some people have mentioned that we've been silent since April 18th. In fact, we've been testing a new direction and also took a break for the May Day holiday. We can't disclose exactly what we've been working on yet, but you should see the results soon.
-
-2024-04-11: We possess not just one Tenhou 9-dan account because we laid out extensive preparations a year ago to achieve our ultimate goal. There's an old Chinese saying, "The strength of an army lies not in its numbers but in its unity, and a general's value lies not in his bravery but in his strategy." So, we made a thoroughly comprehensive plan a year in advance, and we will ultimately realize our goal. Always remember, a high rating and matches do not necessarily mean it's an AI, while an entity with lower ratings and matches, appearing more like a normal person, might indeed be an AI.
-
-2024-04-09: We adjusted our testers to a level not far from that of normal players, and even so, we still made great progress in rank. We believe players should actively learn and continually improve their skills, rather than envying others' ranks or match data. Only when your own strength is sufficiently strong can you face all challenges without fear.
-
-2024-04-02: People commonly believe that higher Ratings and Matches in Mortal indicate stronger gameplay skills, but we disagree. We think that an individual's gameplay level has no correlation with these scores. Thus, we spent a year collecting matches with Ratings below 90 and Matches below 85 for training. We successfully lowered our engine's values to below 90 in Rating and 85 in Matches, and still achieved the rank of Tenhou 9 dan. This once again proves our theory that Ratings and Matches are irrelevant metrics. Players should not overly concern themselves with these numbers; they are merely a joke.
-
-2024-03-29: We've taken another step closer to our established goal; we are about to achieve our target.
-
-2024-03-28: "Shurima! Your emperor has returned!"
-
-2024-03-26: `Archer` will be the first player to make a run for Tenhou's 10-dan, following `Naga`, `Suphx`, and `LuckyJ`, true to its name, charging forward bravely.![rank_9_dan](./rank_9_dan.jpg)
-
-2024-03-25: A major event is about to happen...
-
-2024-03-20: To further enhance the strength of our engine, we have developed a real-time training method. After the update on March 20, 2024, we will allow AI-completed real-time matches to be incorporated into training to more quickly improve the engine's self-strength. Unlike any previous training methods, the goal of this training is to allow the engine to gain more realistic match information in real-time games to improve its own judgment. Due to the large demand for data and the lower efficiency of real-time match training, we may need more time to conduct this training.
-
-2024-03-17: We have confirmed that over the same dataset of 1,000 games, we have surpassed `LuckyJ`. Moreover, we spent several months competing against other AI on the market (such as NAGA) in thousands of matches and have gained a leading advantage. However, since our emails to Tenhou have gone unanswered for four months, we will not disclose any other related information until our testing is complete. Therefore, to facilitate testing, the information we release is delayed; this is a message from the distant past... Given the considerable time required to train transformers, we anticipate needing to continue iterations over the next two years.
-
-2024-03-15: After years of accumulation, we made significant progress recently.
-
-2024-03-10: Our training equipment has been continuously operating 24 hours a day for 4 months, from November 6, 2023, to the present date, March 10, 2024. Except for unavoidable circumstances like power outages, it has been in continuous training. We anticipate it will need to remain in service for at least another 2 years, with electricity costs being a significant expense.
-
-2024-03-06: We conducted 170 matches on Tenhou with our latest engine against the Mortal 4.0 strongest model, achieving an average rank of 2.3823, sounds pretty good.
-
-2024-01-26: Since we have not yet obtained permission from the Tenhou platform, we may not disclose effective information so soon. We will make the relevant information public when we determine that everything is complete.
-
-2024-??-??: Achieving 10-dan in Tenhou, we will announce the results after some time. Currently, we need to organize some data and cannot disclose it publicly yet.
-
-2023-12-25: As Christmas approaches, we have completed our final test for 2023. This test still achieved the Tenhou 8-dan rank, but the performance was better than in 2022. In 2024, we will strive for even higher ranks.
-
-2023-11-15: Through our continuous efforts, we have successfully reduced the probability of account bans to below 1%, achieving a record of only 7 bans in 9 months.
-
-## Contact Us
-
-[X: https://x.com/yuukiasunahk](https://x.com/yuukiasunahk)
+QQ群：[813043834](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834)
 
 <figure class="two">
     <img src="./telegram.jpg" width=170>
