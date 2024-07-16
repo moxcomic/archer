@@ -8,7 +8,7 @@ To view the English README, please click [here](./README_EN.md).
 
 [Plugin：![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
-**警告：** 在您使用 Archer 时 **「 可能会导致账号被封禁」** ，，因此产生的一切后果，Archer 不对此承担任何责任！
+**警告：** 在您使用 Archer 时 **「 可能会导致账号被封禁」** ，因此产生的一切后果，Archer 不对此承担任何责任！
 **如果你比较在意您的账号 ** 请 **「尽量使用小号」 ** 使用本软件!
 
 ## AI段位
