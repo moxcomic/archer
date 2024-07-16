@@ -8,8 +8,7 @@ To view the English README, please click [here](./README_EN.md).
 
 [Plugin：![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
-**警告** 在您使用 Archer 时 **「 可能会导致账号被封禁** ，因此产生的一切后果，Archer 不对此承担任何责任！**
-**如果你比较在意您的账号** 请 **「尽量使用小号」** 使用本软件！
+**警告** 在您使用 Archer 时 **「 可能会导致账号被封禁** ，因此产生的一切后果，Archer 不对此承担任何责任！**如果你比较在意您的账号** 请 **「尽量使用小号」** 使用本软件！
 
 ## AI段位
 
@@ -34,9 +33,12 @@ To view the English README, please click [here](./README_EN.md).
 
 ![Plugin Setting](./plugin_setting.png)
 
-插件的右下角有 **「两个重要信息」**  
-**「绿色盾牌」**代表该插件为**「安全插件」**  
-**「红色感叹号」**代表该插件**「存在风险」**  
+插件的右下角有 **「两个重要信息」**
+
+**「绿色盾牌」**代表该插件为**「安全插件」**
+
+**「红色感叹号」**代表该插件**「存在风险」**
+
 **注意:** 这里的风险**「仅代表」**该插件**「可能存在风险」**并不代表其一定会导致账号被封禁。
 
 **目前插件可以做到替换游戏立绘例如下图演示**
@@ -60,6 +62,12 @@ To view the English README, please click [here](./README_EN.md).
 **Archer**内部提供了一个**「简单」**的**「插件模组制作工具」**，玩家们可以通过其**「快速」**的进行制作**「立绘替换」**类插件模组的制作，如下图所示
 
 ![Plugin Make](./plugin_make.png)
+
+## 关于插件模组的安全性
+
+- **所有「资源替换」类插件**模组均为**「安全」**插件模组
+
+目前我们已经内部已经对**「绝大部分插件模组」**进行了为期**「长达半年以上」**的对局测试，**「目前暂无封号情况」**，**「但不代表其没有任何风险」**，后续如果有其它情况我们会另行通知，**「如果您比较在意这些情况请尽量使用小号」**。
 
 ## 参与讨论
 
