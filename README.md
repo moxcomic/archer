@@ -8,8 +8,8 @@ To view the English README, please click [here](./README_EN.md).
 
 [Plugin：![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
-**警告** 在您使用 Archer 时 **「 可能会导致账号被封禁** ，因此产生的一切后果，Archer 不对此承担任何责任！
-**如果你比较在意您的账号** 请 **「尽量使用小号」** 使用本软件!
+**警告** 在您使用 Archer 时 **「 可能会导致账号被封禁** ，因此产生的一切后果，Archer 不对此承担任何责任！**
+**如果你比较在意您的账号** 请 **「尽量使用小号」** 使用本软件！
 
 ## AI段位
 
@@ -21,7 +21,7 @@ To view the English README, please click [here](./README_EN.md).
 
 1. 访问 [releases 页面](https://github.com/moxcomic/archer/releases/latest) 下载适用于您计算机系统的版本
 2. 解压压缩文件
-3. 运行应用程序，软件会自动启动浏览器(如果没有启动可以手动访问 [http://localhost:30010/webui](http://localhost:30010/webui) )
+3. 运行应用程序，软件会自动启动浏览器(如果没有启动可以手动访问 [http://localhost:30010/webui](http://localhost:30010/webui))
 
 ## 自动化操作
 
@@ -29,13 +29,14 @@ To view the English README, please click [here](./README_EN.md).
 - [教程](https://github.com/moxcomic/archer/blob/main/lesson/Navigation.md)
 
 ## 插件模组
-**Archer**可以**「加载」**用户自定义的**「插件模组」**，在打开软件的**「WebUI」**页面后可以看到**「插件设置」**页面即可看到加载的所有插件
+
+**Archer** 可以 **「加载」**用户自定义的**「插件模组」**，在打开软件的**「WebUI」**页面后可以看到**「插件设置」**页面即可看到加载的所有插件
 
 ![Plugin Setting](./plugin_setting.png)
 
-插件的右下角有**「两个重要信息」**
-**「绿色盾牌」**代表该插件为**「安全插件」**
-**「红色感叹号」**代表该插件**「存在风险」**
+插件的右下角有 **「两个重要信息」**  
+**「绿色盾牌」**代表该插件为**「安全插件」**  
+**「红色感叹号」**代表该插件**「存在风险」**  
 **注意:** 这里的风险**「仅代表」**该插件**「可能存在风险」**并不代表其一定会导致账号被封禁。
 
 **目前插件可以做到替换游戏立绘例如下图演示**
@@ -48,7 +49,7 @@ To view the English README, please click [here](./README_EN.md).
 
 **玩家们可以充分的发挥自己的想象力创建更多有趣的插件**
 
-**Archer **官方维护的插件列表可以在 [这里查看](https://github.com/moxcomic/archer/releases/tag/plugin)
+**Archer**官方维护的插件列表可以在 [这里查看](https://github.com/moxcomic/archer/releases/tag/plugin)
 
 **如果对插件有任何疑问、改进方案请留言咨询或者添加下方我们的联系方式**
 
