@@ -1,4 +1,4 @@
-## Lesson 5: Pon
+## Lesson 5: Kong
 
 `Archer` has encapsulated a series of table operation methods for you, which are located in the `github.com/moxcomic/Archer/actions` package (this package is built into Archer and is not publicly available, so it cannot be viewed on Github).
 
@@ -59,13 +59,12 @@ East, South, West, North, White, Green, Red: 1234567 z
 
 ### Thought Process
 
-From the above information, we know that if you want to perform a Pon, you can call the `Pon(tile0 string, tile1 string)` method, where `tile0` and `tile1` are the tiles to be Pon. Here, we demonstrate with a minimal example:
+From the above information, we know that if you want to perform a kong (Kang), you can call the `Daimingkan(tile string)`, `Kakan(tile string)`, and `Ankan(tile string)` methods, where `tile` is the tile to be konged (using the tile codes mentioned above). Here, we demonstrate with a minimal example:
 
 ```go
 package main
 
 import (
-    "fmt"
     "github.com/moxcomic/Archer/actions"
     "github.com/moxcomic/lq"
 )
@@ -92,19 +91,22 @@ const (
 )
 
 func onExecute(result *lq.NotifyAIResult, risk []float64, r, m, f, t float64) {
-    if result.GetResult()[0].GetType() == E_PlayOperation_Pon {
-        if len(result.GetResult()[0].GetCombination()) != 2 {
-            fmt.Println("Unable to get Pon options")
-            return
-        }
-
-        actions.NewMajsoulActions().Pon(result.GetResult()[0].GetCombination()[0], result.GetResult()[0].GetCombination()[1])
+    if result.GetResult()[0].GetType() == E_PlayOperation_Minkan {
+        actions.NewMajsoulActions().Daimingkan(result.GetResult()[0].GetCombination()[0])
+    }
+    
+    if result.GetResult()[0].GetType() == E_PlayOperation_Kakan {
+        actions.NewMajsoulActions().Kakan(result.GetResult()[0].GetCombination()[0])
+    }
+    
+    if result.GetResult()[0].GetType() == E_PlayOperation_Ankan {
+        actions.NewMajsoulActions().Ankan(result.GetResult()[0].GetCombination()[0])
     }
 }
 ```
 
-In the example above, we executed a Pon action in the simplest way. When the AI has an action, it will call the `onExecute` method, and `result` contains the AI's recommended operations. This is an array, and the first element represents the AI's recommended operation, so we use `result.GetResult()[0]`. Note that in the program, the first element starts from `0`.
+In the example above, we performed a kong (Kang) action in the simplest way. When the AI has an action, it will call the `onExecute` method, and `result` contains the AI's recommended operations. This is an array, and the first element represents the AI's recommended operation, so we use `result.GetResult()[0]`. Note that in the program, the first element starts from `0`.
 
 ### Note
 
-This is just a simple example and does not consider operations that require a few seconds of thinking or waiting. If you write the program this way, you will get a program that discards tiles instantly. We do not recommend doing this because humans need to think, not have tiles chii immediately upon seeing them.
+This is just a simple example and does not consider operations that require a few seconds of thinking or waiting. If you write the program this way, you will get a program that performs actions instantly. We do not recommend doing this because humans need to think, not have tiles konged immediately upon seeing them.

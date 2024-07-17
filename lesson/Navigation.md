@@ -23,3 +23,7 @@
 第六课: 碰 | Lesson Six: Pon
 
 [简体中文](./lesson_six/LESSON_SIX_CN.md) | [English](./lesson_six/LESSON_SIX_EN.md)
+
+第七课: 杠 | Lesson Seven: Kong
+
+[简体中文](./lesson_7/LESSON_7_CN.md) | [English](./lesson_7/LESSON_7_EN.md)

@@ -1,4 +1,4 @@
-## 第五课: 碰
+## 第五课: 杠
 
 `Archer`已经为大家封装好了一系列牌桌操作方法, 他们位于`github.com/moxcomic/Archer/actions`包内`(该包为Archer内置包, 并未公开, 无法在Github查看)`。
 
@@ -62,7 +62,7 @@ z: 字
 
 ## 思路解析
 
-由上方信息我们可以知道，如果你想要出牌就可以调用`Pon(tile0 string, tile1 string)`接口方法，其中`tile0`和`tile1`为要进行吃的选项牌(`tile按照上方牌代码`), 这里我们以一个最小化的示例进行演示:
+由上方信息我们可以知道，如果你想要出牌就可以调用`Daimingkan(tile string)`、`Kakan(tile string)`、`Ankan(tile string)`接口方法，其中`tile`为要进行吃的选项牌(`tile按照上方牌代码`), 这里我们以一个最小化的示例进行演示:
 
 ```go
 package main
@@ -94,13 +94,16 @@ const (
 )
 
 func onExecute(result *lq.NotifyAIResult, risk []float64, r, m, f, t float64) {
-	if result.GetResult()[0].GetType() == E_PlayOperation_Pon {
-		if len(result.GetResult()[0].GetCombination()) != 2 {
-			fmt.Println("无法获取【碰】选项")
-			return
-		}
-
-		actions.NewMajsoulActions().Pon(result.GetResult()[0].GetCombination()[0], result.GetResult()[0].GetCombination()[1])
+	if result.GetResult()[0].GetType() == E_PlayOperation_Minkan {
+		actions.NewMajsoulActions().Daimingkan(result.GetResult()[0].GetCombination()[0])
+	}
+	
+	if result.GetResult()[0].GetType() == E_PlayOperation_Kakan {
+		actions.NewMajsoulActions().Kakan(result.GetResult()[0].GetCombination()[0])
+	}
+	
+	if result.GetResult()[0].GetType() == E_PlayOperation_Ankan {
+		actions.NewMajsoulActions().Ankan(result.GetResult()[0].GetCombination()[0])
 	}
 }
 ```
@@ -109,4 +112,4 @@ func onExecute(result *lq.NotifyAIResult, risk []float64, r, m, f, t float64) {
 
 ## 注意
 
-这里只是一个简单的示例代码, 并没有考虑什么要思考几秒、等待几秒的操作，如果你真按照这样写那么会得到一个秒出牌的程序，我们不推荐你这样做, 因为人类需要思考而不是牌还没看见就被碰走了。
+这里只是一个简单的示例代码, 并没有考虑什么要思考几秒、等待几秒的操作，如果你真按照这样写那么会得到一个秒出牌的程序，我们不推荐你这样做, 因为人类需要思考而不是牌还没看见就被杠走了。
