@@ -71,13 +71,50 @@ To view the English README, please click [here](./README_EN.md).
 
 目前我们已经内部已经对**"绝大部分插件模组"**进行了为期**"长达半年以上"**的对局测试，**"目前暂无封号情况"**，**"但不代表其没有任何风险"**，后续如果有其它情况我们会另行通知，**"如果您比较在意这些情况请尽量使用小号"**。
 
+---
+
 ## 参与讨论
 
-X (Twitter)： [https://x.com/yuukiasunahk](https://x.com/yuukiasunahk)
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
-QQ群：[813043834](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834)
+  <!-- QQ群 -->
+  <div style="text-align: center;">
+    <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/qq.png" alt="QQ群" width="50" height="50">
+      <p>加入QQ群</p>
+    </a>
+  </div>
 
-<figure class="two">
-    <img src="./telegram.jpg" width=170>
-    <img src="./whatsapp.jpg" width=170>
-</figure>
+  <!-- Twitter -->
+  <div style="text-align: center;">
+    <a href="https://x.com/yuukiasunahk" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="50" height="50">
+      <p>关注Twitter</p>
+    </a>
+  </div>
+
+  <!-- Telegram -->
+  <div style="text-align: center;">
+    <a href="https://t.me/+Ts13JAS-XBZjNWI9" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="Telegram" width="50" height="50">
+      <p>加入Telegram群</p>
+    </a>
+  </div>
+
+  <!-- WhatsApp -->
+  <div style="text-align: center;">
+    <a href="https://chat.whatsapp.com/Cx7CEyEhpJhGbUTIj8ac1U" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png" alt="WhatsApp" width="50" height="50">
+      <p>加入WhatsApp群</p>
+    </a>
+  </div>
+
+  <!-- Discord -->
+  <div style="text-align: center;">
+    <a href="https://discord.gg/xmCh63XgEB" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" width="50" height="50">
+      <p>加入Discord群</p>
+    </a>
+  </div>
+
+</div>
