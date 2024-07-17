@@ -31,6 +31,8 @@ The highest rank currently achieved by **Archer** is **"Tenhou 9 Dan"**. Due to 
 
 **Archer** can **"load"** user-defined **"plugin modules"**. After opening the **"WebUI"** page of the software, you can see the **"Plugin Settings"** page to view all the loaded plugins.
 
+**Note:** Some plugins require **"enabling"** the **"Built-in Mode"** under automatic settings to take effect. Resource replacement plugins **"need to be launched"** and you must **"enter the game and exit once"** for them to take effect the first time.
+
 ![Plugin Setting](./plugin_setting.png)
 
 In the bottom right corner of the plugin, there are **"two important pieces of information"**:
