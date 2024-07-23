@@ -67,6 +67,10 @@ To view the English README, please click [here](./README_EN.md).
 
 ![Plugin Make](./plugin_make.png)
 
+## 优秀插件模组展示
+
+- DNF音乐包: [https://b23.tv/txSg7Vv](https://b23.tv/txSg7Vv)
+
 ## 关于插件模组的安全性
 
 - **所有"资源替换"类插件**模组均为**"安全"**插件模组

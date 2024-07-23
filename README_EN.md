@@ -67,6 +67,10 @@ The list of plugins maintained by the **Archer** official team can be viewed [he
 
 ![Plugin Make](./plugin_make.png)
 
+## Showcase of Excellent Plugin Modules
+
+- DNF Music: [https://b23.tv/txSg7Vv](https://b23.tv/txSg7Vv)
+
 ## About the Security of Plugin Modules
 
 - **All "resource replacement" plugin modules** are considered **"safe"** plugins.
