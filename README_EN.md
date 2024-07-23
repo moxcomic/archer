@@ -10,6 +10,8 @@ To view the English README, please click [here](./README_EN.md).
 
 **Warning:** Using Archer **"may result in account bans"**, and Archer takes no responsibility for any consequences arising from its use! **If you are concerned about your account**, please **"try to use a secondary account"** when using this software!
 
+**Note:** This software does not offer a free version. If you cannot accept this, please do not download or use it. If you live in a parallel world where everything is free, or if Cook gives you 10 free iPhones every year, we might consider it. We are not philanthropists. The maintenance costs of the software and the electricity expenses for training machines are substantial, and we currently do not have the capacity to bear these costs.
+
 ## AI Rank
 
 The highest rank currently achieved by **Archer** is **"Tenhou 9 Dan"**. Due to certain factors, the rank information for **Mahjong Soul** is **"temporarily undisclosed"**.
