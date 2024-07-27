@@ -12,6 +12,8 @@ To view the English README, please click [here](./README_EN.md).
 
 **Note:** This software does not offer a free version. If you cannot accept this, please do not download or use it. If you live in a parallel world where everything is free, or if Cook gives you 10 free iPhones every year, we might consider it. We are not philanthropists. The maintenance costs of the software and the electricity expenses for training machines are substantial, and we currently do not have the capacity to bear these costs.
 
+**Warning:** Due to the high entry threshold and the need for specialized knowledge, less experienced computer users should consider carefully, as you might not understand how to use the software.
+
 ## AI Rank
 
 The highest rank currently achieved by **Archer** is **"Tenhou 9 Dan"**. Due to certain factors, the rank information for **Mahjong Soul** is **"temporarily undisclosed"**.
