@@ -115,46 +115,12 @@ To view the English README, please click [here](./README_EN.md).
 
 ## 参与讨论
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+[![QQGroup](https://img.shields.io/badge/点击加入QQ群-813043834-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834)
 
-  <!-- QQ群 -->
-  <div style="text-align: center;">
-    <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/qq.png" alt="QQ群" width="50" height="50">
-      <p>加入QQ群</p>
-    </a>
-  </div>
+[![Twitter](https://img.shields.io/badge/点击关注-Twitter-blue.svg)](https://x.com/yuukiasunahk)
 
-  <!-- Twitter -->
-  <div style="text-align: center;">
-    <a href="https://x.com/yuukiasunahk" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="50" height="50">
-      <p>关注Twitter</p>
-    </a>
-  </div>
+[![Telegram](https://img.shields.io/badge/点击加入-Telegram群组-blue.svg)](https://t.me/+Ts13JAS-XBZjNWI9)
 
-  <!-- Telegram -->
-  <div style="text-align: center;">
-    <a href="https://t.me/+Ts13JAS-XBZjNWI9" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="Telegram" width="50" height="50">
-      <p>加入Telegram群</p>
-    </a>
-  </div>
+[![WhatsApp](https://img.shields.io/badge/点击加入-WhatsApp群组-blue.svg)](https://chat.whatsapp.com/Cx7CEyEhpJhGbUTIj8ac1U)
 
-  <!-- WhatsApp -->
-  <div style="text-align: center;">
-    <a href="https://chat.whatsapp.com/Cx7CEyEhpJhGbUTIj8ac1U" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png" alt="WhatsApp" width="50" height="50">
-      <p>加入WhatsApp群</p>
-    </a>
-  </div>
-
-  <!-- Discord -->
-  <div style="text-align: center;">
-    <a href="https://discord.gg/xmCh63XgEB" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" width="50" height="50">
-      <p>加入Discord群</p>
-    </a>
-  </div>
-
-</div>
+[![Discord](https://img.shields.io/badge/点击加入-Discord群组-blue.svg)](https://discord.gg/xmCh63XgEB)
