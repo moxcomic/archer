@@ -8,6 +8,38 @@ To view the English README, please click [here](./README_EN.md).
 
 [Plugin：![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
+[![BadAppleDesktop](https://img.shields.io/badge/BadApple视频桌布-v0.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/badappleDesktop-0.0.1.arc)
+
+[![Bianjietishi](https://img.shields.io/badge/便捷提示-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/bianjietishi-1.0.0.arc)
+
+[![Board_WhiteBlack](https://img.shields.io/badge/改点数显示板(白+黑)-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/board_whiteblack-1.0.0.arc)
+
+[![DNFMusic](https://img.shields.io/badge/DNF音乐包-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/DNF_Music.-1.0.0.arc)
+
+[![QQHLDDZ](https://img.shields.io/badge/QQ欢乐斗地主音乐包-v1.1.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/extraBGMs_qqhlddz-1.1.0.arc)
+
+[![HideMoney](https://img.shields.io/badge/隐藏铜币辉玉-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideMoney-1.0.0.arc)
+
+[![HideName](https://img.shields.io/badge/隐藏昵称-v1.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideName-1.0.1.arc)
+
+[![HideRoomID](https://img.shields.io/badge/隐藏房间号-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideRoomID-1.0.0.arc)
+
+[![JietouBW](https://img.shields.io/badge/接头霸王-v1.9.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/jietoubw-1.9.1.arc)
+
+[![NoSeSe](https://img.shields.io/badge/不可以色色-v1.0.3-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/nosese-1.0.3.arc)
+
+[![RandomAISkin](https://img.shields.io/badge/电脑随机皮肤-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/randomAISkin-1.0.0.arc)
+
+[![RemoveAllMale](https://img.shields.io/badge/移除所有男性角色-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/removeAllMale-1.0.1.arc)
+
+[![RemoveShengzhimo](https://img.shields.io/badge/移除生志摩妄-v1.0.2-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/removeShengzhimo-1.0.2.arc)
+
+[![SeSeTableCloth](https://img.shields.io/badge/色色桌布-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/sese_tablecloth-1.0.0.arc)
+
+[![Tsumogiri](https://img.shields.io/badge/摸切显示-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/tsumogiri-1.0.0.arc)
+
+[![WQDY](https://img.shields.io/badge/猫粮供应商-v1.0.5-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.5.arc)
+
 **警告** 在您使用 Archer 时 **"可能会导致账号被封禁"** ，因此产生的一切后果，Archer 不对此承担任何责任！**"如果你比较在意您的账号"** 请 **"尽量使用小号"** 使用本软件！
 
 **注意** 本软件不提供免费版本，如无法接受请勿下载使用。如果你生活在一个所有事物不需要钱的平行世界亦或者是让库克每年免费赠送您10台iPhone我们或许可以考虑一下，我们不是慈善家，软件的维护费用、训练机器的电费支出是一笔庞大的数字，我们暂时没有能力做到承当这些费用。

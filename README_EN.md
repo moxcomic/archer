@@ -8,6 +8,38 @@ To view the English README, please click [here](./README_EN.md).
 
 [Plugin: ![DownloadsLatest](https://img.shields.io/github/downloads/moxcomic/archer/plugin/total.svg)](https://github.com/moxcomic/archer/releases/plugin)
 
+[![BadAppleDesktop](https://img.shields.io/badge/BadAppleDesktop-v0.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/badappleDesktop-0.0.1.arc)
+
+[![Bianjietishi](https://img.shields.io/badge/Bianjietishi-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/bianjietishi-1.0.0.arc)
+
+[![Board_WhiteBlack](https://img.shields.io/badge/BoardWhiteBlack-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/board_whiteblack-1.0.0.arc)
+
+[![DNFMusic](https://img.shields.io/badge/DNFMusic-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/DNF_Music.-1.0.0.arc)
+
+[![QQHLDDZ](https://img.shields.io/badge/QQHHDDZ-v1.1.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/extraBGMs_qqhlddz-1.1.0.arc)
+
+[![HideMoney](https://img.shields.io/badge/HideMoney-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideMoney-1.0.0.arc)
+
+[![HideName](https://img.shields.io/badge/HideName-v1.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideName-1.0.1.arc)
+
+[![HideRoomID](https://img.shields.io/badge/HideRoomID-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/hideRoomID-1.0.0.arc)
+
+[![JietouBW](https://img.shields.io/badge/JietouBW-v1.9.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/jietoubw-1.9.1.arc)
+
+[![NoSeSe](https://img.shields.io/badge/NoSeSe-v1.0.3-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/nosese-1.0.3.arc)
+
+[![RandomAISkin](https://img.shields.io/badge/RandomAISkin-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/randomAISkin-1.0.0.arc)
+
+[![RemoveAllMale](https://img.shields.io/badge/RemoveAllMale-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/removeAllMale-1.0.1.arc)
+
+[![RemoveShengzhimo](https://img.shields.io/badge/RemoveShengzhimo-v1.0.2-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/removeShengzhimo-1.0.2.arc)
+
+[![SeSeTableCloth](https://img.shields.io/badge/SeSeTableCloth-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/sese_tablecloth-1.0.0.arc)
+
+[![Tsumogiri](https://img.shields.io/badge/Tsumogiri-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/tsumogiri-1.0.0.arc)
+
+[![WQDY](https://img.shields.io/badge/WQDY-v1.0.5-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.5.arc)
+
 **Warning:** Using Archer **"may result in account bans"**, and Archer takes no responsibility for any consequences arising from its use! **If you are concerned about your account**, please **"try to use a secondary account"** when using this software!
 
 **Note:** This software does not offer a free version. If you cannot accept this, please do not download or use it. If you live in a parallel world where everything is free, or if Cook gives you 10 free iPhones every year, we might consider it. We are not philanthropists. The maintenance costs of the software and the electricity expenses for training machines are substantial, and we currently do not have the capacity to bear these costs.
