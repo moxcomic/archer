@@ -115,12 +115,12 @@ We have internally tested **"the vast majority of plugin modules"** for **"over 
 
 ## Join the Discussion
 
-[![QQGroup](https://img.shields.io/badge/Join QQ Group-813043834-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834)
+[![QQGroup](https://img.shields.io/badge/Join%20QQ%20Group-813043834-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lpj-aL7OUe2vy5rSo13Pb-L5nPpLn1SQ&authKey=tlxLDUf6SOkh%2BJtfmgzYW9Ff0oScjghCKMLNRlLUuo1HKBZOk%2BHlfiVi9d05n2LX&noverify=0&group_code=813043834)
 
-[![Twitter](https://img.shields.io/badge/Click To Follow-Twitter-blue.svg)](https://x.com/yuukiasunahk)
+[![Twitter](https://img.shields.io/badge/Click%20To%20Follow-Twitter-blue.svg)](https://x.com/yuukiasunahk)
 
-[![Telegram](https://img.shields.io/badge/Click To Join-Telegram Group-blue.svg)](https://t.me/+Ts13JAS-XBZjNWI9)
+[![Telegram](https://img.shields.io/badge/Click%20To%20Join-Telegram%20Group-blue.svg)](https://t.me/+Ts13JAS-XBZjNWI9)
 
-[![WhatsApp](https://img.shields.io/badge/Click To Join-WhatsApp Group-blue.svg)](https://chat.whatsapp.com/Cx7CEyEhpJhGbUTIj8ac1U)
+[![WhatsApp](https://img.shields.io/badge/Click%20To%20Join-WhatsApp%20Group-blue.svg)](https://chat.whatsapp.com/Cx7CEyEhpJhGbUTIj8ac1U)
 
-[![Discord](https://img.shields.io/badge/Click To Join-Discord Group-blue.svg)](https://discord.gg/xmCh63XgEB)
+[![Discord](https://img.shields.io/badge/Click%20To%20Join-Discord%20Group-blue.svg)](https://discord.gg/xmCh63XgEB)
