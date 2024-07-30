@@ -40,6 +40,8 @@ To view the English README, please click [here](./README_EN.md).
 
 [![WQDY](https://img.shields.io/badge/WQDY-v1.0.5-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.5.arc)
 
+[![FixCNFont](https://img.shields.io/badge/FixCNFont-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/FixCNFont-1.0.0.arc)
+
 **Warning:** Using Archer **"may result in account bans"**, and Archer takes no responsibility for any consequences arising from its use! **If you are concerned about your account**, please **"try to use a secondary account"** when using this software!
 
 **Note:** This software does not offer a free version. If you cannot accept this, please do not download or use it. If you live in a parallel world where everything is free, or if Cook gives you 10 free iPhones every year, we might consider it. We are not philanthropists. The maintenance costs of the software and the electricity expenses for training machines are substantial, and we currently do not have the capacity to bear these costs.

@@ -40,6 +40,8 @@ To view the English README, please click [here](./README_EN.md).
 
 [![WQDY](https://img.shields.io/badge/猫粮供应商-v1.0.5-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.5.arc)
 
+[![FixCNFont](https://img.shields.io/badge/修复中文字体-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/FixCNFont-1.0.0.arc)
+
 **警告** 在您使用 Archer 时 **"可能会导致账号被封禁"** ，因此产生的一切后果，Archer 不对此承担任何责任！**"如果你比较在意您的账号"** 请 **"尽量使用小号"** 使用本软件！
 
 **注意** 本软件不提供免费版本，如无法接受请勿下载使用。如果你生活在一个所有事物不需要钱的平行世界亦或者是让库克每年免费赠送您10台iPhone我们或许可以考虑一下，我们不是慈善家，软件的维护费用、训练机器的电费支出是一笔庞大的数字，我们暂时没有能力做到承当这些费用。
