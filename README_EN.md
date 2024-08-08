@@ -26,7 +26,7 @@ To view the English README, please click [here](./README_EN.md).
 
 [![JietouBW](https://img.shields.io/badge/JietouBW-v1.9.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/jietoubw-1.9.1.arc)
 
-[![NoSeSe](https://img.shields.io/badge/NoSeSe-v1.0.4-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/nosese-1.0.4.arc)
+[![NoSeSe](https://img.shields.io/badge/NoSeSe-v1.0.5-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/nosese-1.0.5.arc)
 
 [![RandomAISkin](https://img.shields.io/badge/RandomAISkin-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/randomAISkin-1.0.0.arc)
 
