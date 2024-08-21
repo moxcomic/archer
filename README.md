@@ -91,6 +91,12 @@ To view the English README, please click [here](./README_EN.md).
 
 ![Plugin EndingEdit](./plugin_ending_edit.png)
 
+![Amiya1](./amiya1.png)
+
+![Amiya2](./amiya2.png)
+
+![Amiya3](./amiya3.png)
+
 **玩家们可以充分的发挥自己的想象力创建更多有趣的插件**
 
 **Archer**官方维护的插件列表可以在 [这里查看](https://github.com/moxcomic/archer/releases/tag/plugin)

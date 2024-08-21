@@ -91,6 +91,12 @@ In the bottom right corner of the plugin, there are **"two important pieces of i
 
 ![Plugin EndingEdit](./plugin_ending_edit.png)
 
+![Amiya1](./amiya1.png)
+
+![Amiya2](./amiya2.png)
+
+![Amiya3](./amiya3.png)
+
 **Players can fully utilize their imagination to create more interesting plugins.**
 
 The list of plugins maintained by the **Archer** official team can be viewed [here](https://github.com/moxcomic/archer/releases/tag/plugin).
