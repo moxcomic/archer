@@ -38,7 +38,7 @@ To view the English README, please click [here](./README_EN.md).
 
 [![Tsumogiri](https://img.shields.io/badge/Tsumogiri-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/tsumogiri-1.0.0.arc)
 
-[![WQDY](https://img.shields.io/badge/WQDY-v1.0.6-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.6.arc)
+[![WQDY](https://img.shields.io/badge/WQDY-v1.0.7-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/wqdy-1.0.7.arc)
 
 [![FixCNFont](https://img.shields.io/badge/FixCNFont-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/FixCNFont-1.0.0.arc)
 
