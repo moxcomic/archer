@@ -42,9 +42,11 @@ To view the English README, please click [here](./README_EN.md).
 
 [![FixCNFont](https://img.shields.io/badge/修复中文字体-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/FixCNFont-1.0.0.arc)
 
-[![CustomCharacters](https://img.shields.io/badge/自定义新角色-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/custom_characters-1.0.0.arc)
+[![CustomCharacters](https://img.shields.io/badge/自定义新角色-v1.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/custom_characters-1.0.1.arc)
 
 [![DatapackAmiya](https://img.shields.io/badge/阿米娅数据包-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/datapack_amiya-1.0.0.arc)
+
+[![DatapackAmiya](https://img.shields.io/badge/希儿数据包-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/datapack_seele-1.0.0.arc)
 
 **警告** 在您使用 Archer 时 **"可能会导致账号被封禁"** ，因此产生的一切后果，Archer 不对此承担任何责任！**"如果你比较在意您的账号"** 请 **"尽量使用小号"** 使用本软件！
 
@@ -89,7 +91,17 @@ To view the English README, please click [here](./README_EN.md).
 
 ![Plugin JieTouBW](./plugin_jietoubw.png)
 
-![Plugin Seele](./plugin_seele.png)
+![Plugin Seele](./datapack_seele_01.png)
+
+![Plugin Seele](./datapack_seele_02.png)
+
+![Plugin Seele](./datapack_seele_03.png)
+
+![Plugin Seele](./datapack_seele_04.png)
+
+![Plugin Seele](./datapack_seele_05.png)
+
+![Plugin Seele](./datapack_seele_06.png)
 
 **以及修改游戏行为例如下图演示**
 

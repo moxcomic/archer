@@ -42,9 +42,11 @@ To view the English README, please click [here](./README_EN.md).
 
 [![FixCNFont](https://img.shields.io/badge/FixCNFont-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/custom_characters-1.0.0.arc)
 
-[![CustomCharacters](https://img.shields.io/badge/Custom%20Characters-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/FixCNFont-1.0.0.arc)
+[![CustomCharacters](https://img.shields.io/badge/Custom%20Characters-v1.0.1-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/custom_characters-1.0.1.arc)
 
 [![DatapackAmiya](https://img.shields.io/badge/Datapack%20Amiya-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/datapack_amiya-1.0.0.arc)
+
+[![DatapackAmiya](https://img.shields.io/badge/Datapack%20Seele-v1.0.0-blue.svg)](https://github.com/moxcomic/archer/releases/download/plugin/datapack_seele-1.0.0.arc)
 
 **Warning:** Using Archer **"may result in account bans"**, and Archer takes no responsibility for any consequences arising from its use! **If you are concerned about your account**, please **"try to use a secondary account"** when using this software!
 
@@ -89,7 +91,17 @@ In the bottom right corner of the plugin, there are **"two important pieces of i
 
 ![Plugin JieTouBW](./plugin_jietoubw.png)
 
-![Plugin Seele](./plugin_seele.png)
+![Plugin Seele](./datapack_seele_01.png)
+
+![Plugin Seele](./datapack_seele_02.png)
+
+![Plugin Seele](./datapack_seele_03.png)
+
+![Plugin Seele](./datapack_seele_04.png)
+
+![Plugin Seele](./datapack_seele_05.png)
+
+![Plugin Seele](./datapack_seele_06.png)
 
 **And modify game behavior as demonstrated below:**
 
