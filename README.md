@@ -69,7 +69,7 @@ To view the English README, please click [here](./README_EN.md).
 ## 自动化操作
 
 - [Wiki](https://github.com/moxcomic/archer/wiki)
-- [教程](https://github.com/moxcomic/archer/blob/main/lesson/Navigation.md)
+- [教程](https://moxcomic.github.io/archer/)
 
 ## 插件模组
 

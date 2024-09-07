@@ -69,7 +69,7 @@ The highest rank currently achieved by **Archer** is **"Tenhou 9 Dan"**. Due to 
 ## Automation
 
 - [Wiki](https://github.com/moxcomic/archer/wiki)
-- [Tutorials](https://github.com/moxcomic/archer/blob/main/lesson/Navigation.md)
+- [Tutorials](https://moxcomic.github.io/archer/)
 
 ## Plugin Modules
 
