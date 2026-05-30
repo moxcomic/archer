@@ -1,0 +1,16 @@
+import{_ as n,c as e,a as s,o as i}from"./app-BXqkdwf9.js";const l={};function t(c,a){return i(),e("div",null,[...a[0]||(a[0]=[s(`<h1 id="包名" tabindex="-1"><a class="header-anchor" href="#包名"><span>包名</span></a></h1><ul><li><code>lobbymgr</code></li></ul><h1 id="引用方式" tabindex="-1"><a class="header-anchor" href="#引用方式"><span>引用方式</span></a></h1><ul><li><code>import &quot;github.com/moxcomic/Archer/internal/ui/widget/lobbymgr&quot;</code></li></ul><h1 id="方法列表" tabindex="-1"><a class="header-anchor" href="#方法列表"><span>方法列表</span></a></h1><table><thead><tr><th>名称</th><th>参数</th><th>返回值</th><th>备注</th></tr></thead><tbody><tr><td>Inst</td><td>无</td><td>*lobbymgr.LobbyMgr</td><td>大厅管理器实例</td></tr></tbody></table><h1 id="实例方法" tabindex="-1"><a class="header-anchor" href="#实例方法"><span>实例方法</span></a></h1><table><thead><tr><th>名称</th><th>参数</th><th>返回值</th><th>备注</th></tr></thead><tbody><tr><td>Enable</td><td>无</td><td>bool</td><td>返回是否在游戏大厅页面</td></tr></tbody></table><h1 id="示例代码" tabindex="-1"><a class="header-anchor" href="#示例代码"><span>示例代码</span></a></h1><div class="language-golang line-numbers-mode" data-highlighter="prismjs" data-ext="golang"><pre><code class="language-golang"><span class="line">package main</span>
+<span class="line"></span>
+<span class="line">import (</span>
+<span class="line">  &quot;github.com/moxcomic/Archer/mgr/lobbymgr&quot;</span>
+<span class="line">)</span>
+<span class="line"></span>
+<span class="line">func onLogin() {</span>
+<span class="line">  if lobbymgr.Inst.Enable() {</span>
+<span class="line">    // 在游戏大厅页面</span>
+<span class="line">    // On the game lobby page</span>
+<span class="line">  } else {</span>
+<span class="line">    // 不在游戏大厅页面</span>
+<span class="line">    // Not on the game lobby page</span>
+<span class="line">  }</span>
+<span class="line">}</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,10)])])}const r=n(l,[["render",t]]),d=JSON.parse('{"path":"/zh/auto/majsoul/mgr/mgr-lobby.html","title":"大厅管理器","lang":"zh-CN","frontmatter":{"title":"大厅管理器"},"git":{"updatedTime":1780159975000,"contributors":[{"name":"moxcomic","username":"moxcomic","email":"bulakarolina805@gmail.com","commits":2,"url":"https://github.com/moxcomic"}],"changelog":[{"hash":"bd85283be4efc8b7a92196857431396f63beb744","time":1780159975000,"email":"37604141+moxcomic@users.noreply.github.com","author":"moxcomic","message":"docs(archer): 脚本 import 路径迁移至 internal/ + 新增脚本迁移指南(中英)"},{"hash":"fc6f977f2772ac68bb541697a652c86f2ba7bacb","time":1778517482000,"email":"bulakarolina805@gmail.com","author":"moxcomic","message":"Initial commit: majwork monorepo"}]},"filePathRelative":"zh/auto/majsoul/mgr/mgr-lobby.md"}');export{r as comp,d as data};
