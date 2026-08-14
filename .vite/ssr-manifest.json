@@ -1,6 +1,6 @@
 {
   "\u0000plugin-vue:export-helper": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
@@ -10,7 +10,7 @@
   "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
   "node_modules/@intlify/shared/dist/shared.mjs": [],
   "node_modules/@shikijs/core/dist/index.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/@shikijs/engine-javascript/dist/engine-compile.mjs": [
     "/archer/assets/engine-javascript-C5_5nIH3.js"
@@ -19,7 +19,7 @@
     "/archer/assets/engine-javascript-C5_5nIH3.js"
   ],
   "node_modules/@shikijs/engine-oniguruma/dist/index.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/@shikijs/engine-oniguruma/dist/wasm-inlined.mjs": [
     "/archer/assets/wasm-CG6Dc4jp.js"
@@ -784,7 +784,7 @@
     "/archer/assets/zig-VOosw3JB.js"
   ],
   "node_modules/@shikijs/primitive/dist/index.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/@shikijs/themes/dist/andromeeda.mjs": [
     "/archer/assets/andromeeda-C4gqWexZ.js"
@@ -982,10 +982,10 @@
     "/archer/assets/vitesse-light-CVO1_9PV.js"
   ],
   "node_modules/@shikijs/types/dist/index.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/@shikijs/vscode-textmate/dist/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/@unhead/vue/dist/client.mjs": [],
   "node_modules/@unhead/vue/dist/shared/vue.Cr7xSEtD.mjs": [],
@@ -995,62 +995,62 @@
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
   "node_modules/ccount/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/character-entities-html4/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/character-entities-legacy/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/comma-separated-tokens/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/comment.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/doctype.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/element.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/raw.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/root.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/handle/text.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/omission/closing.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/omission/omission.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/omission/opening.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-to-html/lib/omission/util/siblings.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hast-util-whitespace/lib/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/html-void-elements/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/minisearch/dist/es/index.js": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "node_modules/oniguruma-parser/dist/parser/node-utils.js": [
@@ -1072,55 +1072,55 @@
     "/archer/assets/engine-javascript-C5_5nIH3.js"
   ],
   "node_modules/property-information/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/aria.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/find.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/html.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/normalize.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/svg.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/case-insensitive-transform.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/case-sensitive-transform.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/create.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/defined-info.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/info.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/merge.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/schema.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/util/types.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/xlink.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/xml.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/property-information/lib/xmlns.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/regex-recursion/src/index.js": [
     "/archer/assets/engine-javascript-C5_5nIH3.js"
@@ -1135,52 +1135,52 @@
     "/archer/assets/engine-javascript-C5_5nIH3.js"
   ],
   "node_modules/shiki/dist/bundle-full.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/chunk-BBjsoOtd.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/engine-javascript.mjs": [
     "/archer/assets/engine-javascript-C5_5nIH3.js"
   ],
   "node_modules/shiki/dist/engine-oniguruma.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/index.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/langs-bundle-full-4noeO3oH.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/themes.mjs": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/shiki/dist/wasm.mjs": [
     "/archer/assets/wasm-CG6Dc4jp.js"
   ],
   "node_modules/space-separated-tokens/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/constant/dangerous.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/core.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/util/format-smart.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/util/to-decimal.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/util/to-hexadecimal.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/stringify-entities/lib/util/to-named.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "node_modules/unhead/dist/client.mjs": [],
   "node_modules/unhead/dist/shared/unhead.B3VbJo7Y.mjs": [],
@@ -1195,475 +1195,475 @@
   "node_modules/vue-router/dist/useApi-DtucMc-S.js": [],
   "node_modules/vue-router/dist/vue-router.js": [],
   "node_modules/zwitch/index.js": [
-    "/archer/assets/index-DgT2Jg9E.js"
+    "/archer/assets/index-DxQnLkec.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/ApiTable.vue": [
-    "/archer/assets/ApiTable-Dig1NjMZ.js",
+    "/archer/assets/ApiTable-9Cc5FH42.js",
     "/archer/assets/ApiTable-Zd4W6-1K.css"
   ],
   "src/components/ApiTable.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/ApiTable-Dig1NjMZ.js",
+    "/archer/assets/ApiTable-9Cc5FH42.js",
     "/archer/assets/ApiTable-Zd4W6-1K.css"
   ],
   "src/components/ApiTable.vue?vue&type=style&index=0&scoped=b5d8fbe6&lang.css": [
-    "/archer/assets/ApiTable-Dig1NjMZ.js",
+    "/archer/assets/ApiTable-9Cc5FH42.js",
     "/archer/assets/ApiTable-Zd4W6-1K.css"
   ],
   "src/components/Callout.vue": [
-    "/archer/assets/Callout-Brn7c2si.js",
+    "/archer/assets/Callout-Dm2SMRcv.js",
     "/archer/assets/Callout-wYb3gsUM.css"
   ],
   "src/components/Callout.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/Callout-Brn7c2si.js",
+    "/archer/assets/Callout-Dm2SMRcv.js",
     "/archer/assets/Callout-wYb3gsUM.css"
   ],
   "src/components/Callout.vue?vue&type=style&index=0&scoped=a02a1998&lang.css": [
-    "/archer/assets/Callout-Brn7c2si.js",
+    "/archer/assets/Callout-Dm2SMRcv.js",
     "/archer/assets/Callout-wYb3gsUM.css"
   ],
   "src/components/CodeBlock.vue": [
-    "/archer/assets/CodeBlock-DodZ1y9S.js",
+    "/archer/assets/CodeBlock-rISKAamj.js",
     "/archer/assets/CodeBlock-2iyy9Bre.css"
   ],
   "src/components/CodeBlock.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/CodeBlock-DodZ1y9S.js",
+    "/archer/assets/CodeBlock-rISKAamj.js",
     "/archer/assets/CodeBlock-2iyy9Bre.css"
   ],
   "src/components/CodeBlock.vue?vue&type=style&index=0&scoped=fc4d3c63&lang.css": [
-    "/archer/assets/CodeBlock-DodZ1y9S.js",
+    "/archer/assets/CodeBlock-rISKAamj.js",
     "/archer/assets/CodeBlock-2iyy9Bre.css"
   ],
   "src/components/FeatureGrid.vue": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/FeatureGrid.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/FeatureGrid.vue?vue&type=style&index=0&scoped=799cce9a&lang.css": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/ImageFigure.vue": [
-    "/archer/assets/ImageFigure-CdgTLWiR.js",
+    "/archer/assets/ImageFigure-Cu8laYxc.js",
     "/archer/assets/ImageFigure-oKU7TDy6.css"
   ],
   "src/components/ImageFigure.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/ImageFigure-CdgTLWiR.js",
+    "/archer/assets/ImageFigure-Cu8laYxc.js",
     "/archer/assets/ImageFigure-oKU7TDy6.css"
   ],
   "src/components/ImageFigure.vue?vue&type=style&index=0&scoped=d8dc20a2&lang.css": [
-    "/archer/assets/ImageFigure-CdgTLWiR.js",
+    "/archer/assets/ImageFigure-Cu8laYxc.js",
     "/archer/assets/ImageFigure-oKU7TDy6.css"
   ],
   "src/components/RankShowcase.vue": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/RankShowcase.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/RankShowcase.vue?vue&type=style&index=0&scoped=225d6c7e&lang.css": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/components/SearchModal.vue": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/SearchModal.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/SearchModal.vue?vue&type=style&index=0&scoped=423cab37&lang.css": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/Steps.vue": [
-    "/archer/assets/Steps-C47NsdN6.js",
+    "/archer/assets/Steps-DeuNvFJq.js",
     "/archer/assets/Steps-CPDkTsCP.css"
   ],
   "src/components/Steps.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/Steps-C47NsdN6.js",
+    "/archer/assets/Steps-DeuNvFJq.js",
     "/archer/assets/Steps-CPDkTsCP.css"
   ],
   "src/components/Steps.vue?vue&type=style&index=0&scoped=7eba02b3&lang.css": [
-    "/archer/assets/Steps-C47NsdN6.js",
+    "/archer/assets/Steps-DeuNvFJq.js",
     "/archer/assets/Steps-CPDkTsCP.css"
   ],
   "src/components/TheFooter.vue": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scoped=4daa2229&lang.css": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheNav.vue": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheNav.vue?vue&type=style&index=0&scoped=006f34bc&lang.css": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/components/TheSidebar.vue": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/components/TheSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/components/TheSidebar.vue?vue&type=style&index=0&scoped=a224077b&lang.css": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/components/TheToc.vue": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/components/TheToc.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/components/TheToc.vue?vue&type=style&index=0&scoped=4387f429&lang.css": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/composables/useHeadings.ts": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/composables/useReveal.ts": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/composables/useSearch.ts": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/composables/useShiki.ts": [
-    "/archer/assets/CodeBlock-DodZ1y9S.js",
+    "/archer/assets/CodeBlock-rISKAamj.js",
     "/archer/assets/CodeBlock-2iyy9Bre.css"
   ],
   "src/content/nav.ts": [
-    "/archer/assets/SearchModal-Dkq8OtCg.js",
+    "/archer/assets/SearchModal-DHkI2jW0.js",
     "/archer/assets/SearchModal-BLKvViLA.css"
   ],
   "src/content/registry.ts": [],
   "src/i18n/index.ts": [],
   "src/layouts/DocLayout.vue": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/layouts/DocLayout.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/layouts/DocLayout.vue?vue&type=style&index=0&scoped=527d4305&lang.css": [
-    "/archer/assets/DocLayout-Bev0WFn_.js",
+    "/archer/assets/DocLayout-Z8E5hl8y.js",
     "/archer/assets/DocLayout-DkkutmyI.css"
   ],
   "src/layouts/HomeLayout.vue": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/layouts/HomeLayout.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/layouts/HomeLayout.vue?vue&type=style&index=0&scoped=7dabe8fa&lang.css": [
-    "/archer/assets/FeatureGrid-BqI_9Nfb.js",
+    "/archer/assets/FeatureGrid-DVlYqGOU.js",
     "/archer/assets/FeatureGrid-CXnQ98lZ.css"
   ],
   "src/main.ts": [],
   "src/pages/en/auto/basic-framework.vue": [
-    "/archer/assets/basic-framework-DyBcgK7x.js"
+    "/archer/assets/basic-framework-BAsyLavX.js"
   ],
   "src/pages/en/auto/basic-framework.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-framework-DyBcgK7x.js"
+    "/archer/assets/basic-framework-BAsyLavX.js"
   ],
   "src/pages/en/auto/basics.vue": [
-    "/archer/assets/basics-Cf8xKIN_.js"
+    "/archer/assets/basics-C-b04OLX.js"
   ],
   "src/pages/en/auto/basics.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basics-Cf8xKIN_.js"
+    "/archer/assets/basics-C-b04OLX.js"
   ],
   "src/pages/en/auto/majsoul/action/advanced-action-discard.vue": [
-    "/archer/assets/advanced-action-discard-CQ2zn8Mt.js"
+    "/archer/assets/advanced-action-discard-DXtK_Vwo.js"
   ],
   "src/pages/en/auto/majsoul/action/advanced-action-discard.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/advanced-action-discard-CQ2zn8Mt.js"
+    "/archer/assets/advanced-action-discard-DXtK_Vwo.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-cancel.vue": [
-    "/archer/assets/basic-action-cancel-DtCeT4Is.js"
+    "/archer/assets/basic-action-cancel-RVVx_gBv.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-cancel.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-cancel-DtCeT4Is.js"
+    "/archer/assets/basic-action-cancel-RVVx_gBv.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-chii.vue": [
-    "/archer/assets/basic-action-chii-TrWpoEGE.js"
+    "/archer/assets/basic-action-chii-B-tL3r8D.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-chii.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-chii-TrWpoEGE.js"
+    "/archer/assets/basic-action-chii-B-tL3r8D.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-discard.vue": [
-    "/archer/assets/basic-action-discard-BLX7aA1V.js"
+    "/archer/assets/basic-action-discard-EGtjlhoj.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-discard.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-discard-BLX7aA1V.js"
+    "/archer/assets/basic-action-discard-EGtjlhoj.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-gang.vue": [
-    "/archer/assets/basic-action-gang-BoQ08QCL.js"
+    "/archer/assets/basic-action-gang-DOXjI5_a.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-gang.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-gang-BoQ08QCL.js"
+    "/archer/assets/basic-action-gang-DOXjI5_a.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-pon.vue": [
-    "/archer/assets/basic-action-pon-DHaLRmam.js"
+    "/archer/assets/basic-action-pon-1T-84M6R.js"
   ],
   "src/pages/en/auto/majsoul/action/basic-action-pon.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-pon-DHaLRmam.js"
+    "/archer/assets/basic-action-pon-1T-84M6R.js"
   ],
   "src/pages/en/auto/majsoul/action_type/basic-action-type.vue": [
-    "/archer/assets/basic-action-type-COinLQOP.js"
+    "/archer/assets/basic-action-type-CWmE2TRS.js"
   ],
   "src/pages/en/auto/majsoul/action_type/basic-action-type.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-type-COinLQOP.js"
+    "/archer/assets/basic-action-type-CWmE2TRS.js"
   ],
   "src/pages/en/auto/majsoul/actions/basic-action-majsoul.vue": [
-    "/archer/assets/basic-action-majsoul-D2_30Qdi.js"
+    "/archer/assets/basic-action-majsoul-hdS1EysY.js"
   ],
   "src/pages/en/auto/majsoul/actions/basic-action-majsoul.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-majsoul-D2_30Qdi.js"
+    "/archer/assets/basic-action-majsoul-hdS1EysY.js"
   ],
   "src/pages/en/auto/majsoul/event/advanced-event-login.vue": [
-    "/archer/assets/advanced-event-login-RJW7MSMi.js"
+    "/archer/assets/advanced-event-login-CAsh4Nzl.js"
   ],
   "src/pages/en/auto/majsoul/event/advanced-event-login.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/advanced-event-login-RJW7MSMi.js"
+    "/archer/assets/advanced-event-login-CAsh4Nzl.js"
   ],
   "src/pages/en/auto/majsoul/event/basic-event-login.vue": [
-    "/archer/assets/basic-event-login-WRuAf1Wd.js"
+    "/archer/assets/basic-event-login-C91j-WK1.js"
   ],
   "src/pages/en/auto/majsoul/event/basic-event-login.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-event-login-WRuAf1Wd.js"
+    "/archer/assets/basic-event-login-C91j-WK1.js"
   ],
   "src/pages/en/auto/majsoul/gamestate/basic-gamestate.vue": [
-    "/archer/assets/basic-gamestate-koyPPjpH.js"
+    "/archer/assets/basic-gamestate-DIoD7_YU.js"
   ],
   "src/pages/en/auto/majsoul/gamestate/basic-gamestate.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-gamestate-koyPPjpH.js"
+    "/archer/assets/basic-gamestate-DIoD7_YU.js"
   ],
   "src/pages/en/auto/majsoul/lq/basic-lq.vue": [
-    "/archer/assets/basic-lq-Bb83gajv.js"
+    "/archer/assets/basic-lq-DclIjsfI.js"
   ],
   "src/pages/en/auto/majsoul/lq/basic-lq.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-lq-Bb83gajv.js"
+    "/archer/assets/basic-lq-DclIjsfI.js"
   ],
   "src/pages/en/auto/majsoul/tile/basic-tile.vue": [
-    "/archer/assets/basic-tile-zsn2bvzY.js"
+    "/archer/assets/basic-tile-D8D94uE0.js"
   ],
   "src/pages/en/auto/majsoul/tile/basic-tile.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-tile-zsn2bvzY.js"
+    "/archer/assets/basic-tile-D8D94uE0.js"
   ],
   "src/pages/en/auto/migration.vue": [
-    "/archer/assets/migration-DRYJH5EL.js"
+    "/archer/assets/migration-rFupdRYQ.js"
   ],
   "src/pages/en/auto/migration.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/migration-DRYJH5EL.js"
+    "/archer/assets/migration-rFupdRYQ.js"
   ],
   "src/pages/en/auto/riichicity/basic-riichicity.vue": [
-    "/archer/assets/basic-riichicity-EzkTmcBY.js"
+    "/archer/assets/basic-riichicity-DcfxlhnA.js"
   ],
   "src/pages/en/auto/riichicity/basic-riichicity.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-riichicity-EzkTmcBY.js"
+    "/archer/assets/basic-riichicity-DcfxlhnA.js"
   ],
   "src/pages/en/guide/about.vue": [
-    "/archer/assets/about-D0M4U4re.js"
+    "/archer/assets/about-C9LqEQQn.js"
   ],
   "src/pages/en/guide/about.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/about-D0M4U4re.js"
+    "/archer/assets/about-C9LqEQQn.js"
   ],
   "src/pages/en/guide/contact-us.vue": [
-    "/archer/assets/contact-us-CPY4wtou.js"
+    "/archer/assets/contact-us-Wb9My5oX.js"
   ],
   "src/pages/en/guide/contact-us.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/contact-us-CPY4wtou.js"
+    "/archer/assets/contact-us-Wb9My5oX.js"
   ],
   "src/pages/en/guide/faq.vue": [
-    "/archer/assets/faq-D7sWKudc.js"
+    "/archer/assets/faq-ByKXgQIn.js"
   ],
   "src/pages/en/guide/faq.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/faq-D7sWKudc.js"
+    "/archer/assets/faq-ByKXgQIn.js"
   ],
   "src/pages/en/guide/get-started.vue": [
-    "/archer/assets/get-started-B17F2L61.js"
+    "/archer/assets/get-started-Cs3lbJfU.js"
   ],
   "src/pages/en/guide/get-started.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/get-started-B17F2L61.js"
+    "/archer/assets/get-started-Cs3lbJfU.js"
   ],
   "src/pages/en/home.vue": [
-    "/archer/assets/home-Bsca8iWP.js"
+    "/archer/assets/home--mdjsdOX.js"
   ],
   "src/pages/en/home.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/home-Bsca8iWP.js"
+    "/archer/assets/home--mdjsdOX.js"
   ],
   "src/pages/en/tenhou/basic-room-mortal.vue": [
-    "/archer/assets/basic-room-mortal-CBx8VRvM.js"
+    "/archer/assets/basic-room-mortal-CmlLGEsV.js"
   ],
   "src/pages/en/tenhou/basic-room-mortal.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-room-mortal-CBx8VRvM.js"
+    "/archer/assets/basic-room-mortal-CmlLGEsV.js"
   ],
   "src/pages/zh/auto/basic-framework.vue": [
-    "/archer/assets/basic-framework-CJINnLq8.js"
+    "/archer/assets/basic-framework-hDdVx0JX.js"
   ],
   "src/pages/zh/auto/basic-framework.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-framework-CJINnLq8.js"
+    "/archer/assets/basic-framework-hDdVx0JX.js"
   ],
   "src/pages/zh/auto/basics.vue": [
-    "/archer/assets/basics-CH8ORffo.js"
+    "/archer/assets/basics-v2tOczTS.js"
   ],
   "src/pages/zh/auto/basics.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basics-CH8ORffo.js"
+    "/archer/assets/basics-v2tOczTS.js"
   ],
   "src/pages/zh/auto/majsoul/action/advanced-action-discard.vue": [
-    "/archer/assets/advanced-action-discard-DnugpNYQ.js"
+    "/archer/assets/advanced-action-discard-NZ_7pR4E.js"
   ],
   "src/pages/zh/auto/majsoul/action/advanced-action-discard.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/advanced-action-discard-DnugpNYQ.js"
+    "/archer/assets/advanced-action-discard-NZ_7pR4E.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-cancel.vue": [
-    "/archer/assets/basic-action-cancel-DZSlqUho.js"
+    "/archer/assets/basic-action-cancel-D4ls-1zg.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-cancel.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-cancel-DZSlqUho.js"
+    "/archer/assets/basic-action-cancel-D4ls-1zg.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-chii.vue": [
-    "/archer/assets/basic-action-chii-B7ROwzjy.js"
+    "/archer/assets/basic-action-chii-BiIaPPrU.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-chii.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-chii-B7ROwzjy.js"
+    "/archer/assets/basic-action-chii-BiIaPPrU.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-discard.vue": [
-    "/archer/assets/basic-action-discard-BNWOzgMK.js"
+    "/archer/assets/basic-action-discard-C7AowqXm.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-discard.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-discard-BNWOzgMK.js"
+    "/archer/assets/basic-action-discard-C7AowqXm.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-gang.vue": [
-    "/archer/assets/basic-action-gang-pwBJz02D.js"
+    "/archer/assets/basic-action-gang-DvzEyH6-.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-gang.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-gang-pwBJz02D.js"
+    "/archer/assets/basic-action-gang-DvzEyH6-.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-pon.vue": [
-    "/archer/assets/basic-action-pon-aqvSzs-B.js"
+    "/archer/assets/basic-action-pon-CdIGaFCh.js"
   ],
   "src/pages/zh/auto/majsoul/action/basic-action-pon.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-pon-aqvSzs-B.js"
+    "/archer/assets/basic-action-pon-CdIGaFCh.js"
   ],
   "src/pages/zh/auto/majsoul/action_type/basic-action-type.vue": [
-    "/archer/assets/basic-action-type-Dr3V1att.js"
+    "/archer/assets/basic-action-type-BRp-XfPb.js"
   ],
   "src/pages/zh/auto/majsoul/action_type/basic-action-type.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-type-Dr3V1att.js"
+    "/archer/assets/basic-action-type-BRp-XfPb.js"
   ],
   "src/pages/zh/auto/majsoul/actions/basic-action-majsoul.vue": [
-    "/archer/assets/basic-action-majsoul-Bnf0GtNk.js"
+    "/archer/assets/basic-action-majsoul-DPx1m8CS.js"
   ],
   "src/pages/zh/auto/majsoul/actions/basic-action-majsoul.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-action-majsoul-Bnf0GtNk.js"
+    "/archer/assets/basic-action-majsoul-DPx1m8CS.js"
   ],
   "src/pages/zh/auto/majsoul/event/advanced-event-login.vue": [
-    "/archer/assets/advanced-event-login-DTSHsjF5.js"
+    "/archer/assets/advanced-event-login-BgDy8zd8.js"
   ],
   "src/pages/zh/auto/majsoul/event/advanced-event-login.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/advanced-event-login-DTSHsjF5.js"
+    "/archer/assets/advanced-event-login-BgDy8zd8.js"
   ],
   "src/pages/zh/auto/majsoul/event/basic-event-login.vue": [
-    "/archer/assets/basic-event-login-DEgYgku6.js"
+    "/archer/assets/basic-event-login-DgBKITvZ.js"
   ],
   "src/pages/zh/auto/majsoul/event/basic-event-login.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-event-login-DEgYgku6.js"
+    "/archer/assets/basic-event-login-DgBKITvZ.js"
   ],
   "src/pages/zh/auto/majsoul/gamestate/basic-gamestate.vue": [
-    "/archer/assets/basic-gamestate-CcSjywby.js"
+    "/archer/assets/basic-gamestate-R6XU1z1U.js"
   ],
   "src/pages/zh/auto/majsoul/gamestate/basic-gamestate.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-gamestate-CcSjywby.js"
+    "/archer/assets/basic-gamestate-R6XU1z1U.js"
   ],
   "src/pages/zh/auto/majsoul/lq/basic-lq.vue": [
-    "/archer/assets/basic-lq-RVMWE-7z.js"
+    "/archer/assets/basic-lq-ebBDKDXR.js"
   ],
   "src/pages/zh/auto/majsoul/lq/basic-lq.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-lq-RVMWE-7z.js"
+    "/archer/assets/basic-lq-ebBDKDXR.js"
   ],
   "src/pages/zh/auto/majsoul/tile/basic-tile.vue": [
-    "/archer/assets/basic-tile-DwsS3rmJ.js"
+    "/archer/assets/basic-tile-BKSjd9qh.js"
   ],
   "src/pages/zh/auto/majsoul/tile/basic-tile.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-tile-DwsS3rmJ.js"
+    "/archer/assets/basic-tile-BKSjd9qh.js"
   ],
   "src/pages/zh/auto/migration.vue": [
-    "/archer/assets/migration-CndqILIg.js"
+    "/archer/assets/migration-DE9glqUk.js"
   ],
   "src/pages/zh/auto/migration.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/migration-CndqILIg.js"
+    "/archer/assets/migration-DE9glqUk.js"
   ],
   "src/pages/zh/auto/riichicity/basic-riichicity.vue": [
-    "/archer/assets/basic-riichicity-BEUKh3MG.js"
+    "/archer/assets/basic-riichicity-CMJoFxKu.js"
   ],
   "src/pages/zh/auto/riichicity/basic-riichicity.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-riichicity-BEUKh3MG.js"
+    "/archer/assets/basic-riichicity-CMJoFxKu.js"
   ],
   "src/pages/zh/guide/about.vue": [
-    "/archer/assets/about-DdvqHXkk.js"
+    "/archer/assets/about-C9lpO6Wj.js"
   ],
   "src/pages/zh/guide/about.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/about-DdvqHXkk.js"
+    "/archer/assets/about-C9lpO6Wj.js"
   ],
   "src/pages/zh/guide/contact-us.vue": [
-    "/archer/assets/contact-us-BI5Nf6o6.js"
+    "/archer/assets/contact-us-Q1YX0b_1.js"
   ],
   "src/pages/zh/guide/contact-us.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/contact-us-BI5Nf6o6.js"
+    "/archer/assets/contact-us-Q1YX0b_1.js"
   ],
   "src/pages/zh/guide/faq.vue": [
-    "/archer/assets/faq-CMWnsdMO.js"
+    "/archer/assets/faq-Bt7IxDn7.js"
   ],
   "src/pages/zh/guide/faq.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/faq-CMWnsdMO.js"
+    "/archer/assets/faq-Bt7IxDn7.js"
   ],
   "src/pages/zh/guide/get-started.vue": [
-    "/archer/assets/get-started-KckjZIY4.js"
+    "/archer/assets/get-started-B5PpIA3S.js"
   ],
   "src/pages/zh/guide/get-started.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/get-started-KckjZIY4.js"
+    "/archer/assets/get-started-B5PpIA3S.js"
   ],
   "src/pages/zh/home.vue": [
-    "/archer/assets/home-AWZdnVuU.js"
+    "/archer/assets/home-BnKCnZ1R.js"
   ],
   "src/pages/zh/home.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/home-AWZdnVuU.js"
+    "/archer/assets/home-BnKCnZ1R.js"
   ],
   "src/pages/zh/tenhou/basic-room-mortal.vue": [
-    "/archer/assets/basic-room-mortal-phuhckwJ.js"
+    "/archer/assets/basic-room-mortal-CYr-i_Vm.js"
   ],
   "src/pages/zh/tenhou/basic-room-mortal.vue?vue&type=script&setup=true&lang.ts": [
-    "/archer/assets/basic-room-mortal-phuhckwJ.js"
+    "/archer/assets/basic-room-mortal-CYr-i_Vm.js"
   ],
   "src/router/index.ts": [],
   "src/theme/index.css": []
