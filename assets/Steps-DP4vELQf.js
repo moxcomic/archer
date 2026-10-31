@@ -1,0 +1,1 @@
+import{d as s,o,f as t,g as a}from"./app-FxnaFETl.js";import{_ as r}from"./SearchModal-C5ZwZiLQ.js";const _={class:"steps"},n=s({__name:"Steps",setup(p){return(e,c)=>(o(),t("ol",_,[a(e.$slots,"default",{},void 0,!0)]))}}),m=r(n,[["__scopeId","data-v-7eba02b3"]]);export{m as S};
